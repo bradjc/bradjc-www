@@ -1,0 +1,8 @@
+---
+---
+
+{{ reference | replace: '||NEWLINE||', '<br />' }}
+<br />
+<a href="/papers/{{ entry.key }}.pdf">paper</a>
+{% if entry.slides %}| <a href="/talks/{{ entry.slides }}">slides</a>{% endif %}
+{% if entry.note %}&nbsp;&nbsp;<b>{{ entry.note }}</b>{% endif %}

@@ -1,0 +1,44 @@
+---
+# main.scss
+---
+
+@charset "utf-8";
+
+$masthead-link-color: #fff;
+$masthead-link-color-hover: #e57200;
+
+@import "minimal-mistakes";
+
+html {
+  /* apply a natural box layout model to all elements */
+  box-sizing: border-box;
+  background-color: $background-color;
+  font-size: 11px;
+
+  @include breakpoint($medium) {
+    font-size: 13px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 15px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 17px;
+  }
+
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+.masthead {
+  background-color: #002f6c;
+}
+
+.greedy-nav {
+  background-color: #002f6c;
+}
+
+ul li {
+  margin-bottom: 0;
+}
