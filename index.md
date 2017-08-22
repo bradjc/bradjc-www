@@ -5,6 +5,12 @@ author: bradjc
 title: Brad Campbell - UVa
 ---
 
+<style>
+.page__title {
+	display: none;
+}
+</style>
+
 # My Research
 
 Ubiquitous computing, the Internet of Things, wearable and implantable
