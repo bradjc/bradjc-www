@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 author: bradjc
+title: Brad Campbell - UVa
 ---
 
 # My Research

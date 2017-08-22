@@ -15,7 +15,7 @@ title:  "IoT Sensors and Systems"
 - **Instructor**: Brad Campbell
 - **Time**: M/W 10:30am-11:45am
 - **Location**: 340 Rice
-- **Office Hours**: TBD, 512 Rice
+- **Office Hours**: Tu 2pm-3:30pm, 512 Rice
 
 --------------------------------------------------------------------------------
 
