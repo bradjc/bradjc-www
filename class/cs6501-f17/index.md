@@ -74,7 +74,7 @@ in the following categories:
 The reviews must be emailed to bradjc@virginia.edu before the start of each class
 and should be used as reference notes for the in-class discussion.
 
-Note: it will always be easier to find weaknesses that it is to find strengths
+Note: it will always be easier to find weaknesses than it is to find strengths
 when reviewing a paper. After all, the authors had a limited number of pages!
 Try to find the merits that lead to the paper getting accepted while you read
 each paper.
