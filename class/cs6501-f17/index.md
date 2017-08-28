@@ -129,7 +129,7 @@ Schedule
 | Class      | Topic                             | Lead | Details                                                                                                 |
 |------------|-----------------------------------|------|---------------------------------------------------------------------------------------------------------|
 | Wed Aug 23 | [Introduction](slides/01-introduction.pptx) |      |                                                                                                         |
-| Mon Aug 28 | Ubiquitous computing and the IoT  |      | No reviews: (1) [Ubiquitous Computing](weiser93ubiquitous.pdf), (2) [IoT Research Challenges](iot_challenges.pdf) |
+| Mon Aug 28 | [Ubiquitous computing and the IoT](slides/02-ubiquitous.pptx)  | | No reviews: (1) [Ubiquitous Computing](weiser93ubiquitous.pdf), (2) [IoT Research Challenges](iot_challenges.pdf) |
 |            | **Applications**                  |      |                                                                                                         |
 | Wed Aug 30 | Outdoor and Wildlife Monitoring   |      | (1) [Great Duck Island](szewczyk04greatduckisland.pdf), (2) [Bat Tracking](sommer16battracking.pdf)             |
 | Mon Sep 4  | Urban Environments                |      | (1) [Array of Things](catlett17aot.pdf), (2) [Air Quality](devarakonda13airquality.pdf)                         |
