@@ -131,13 +131,13 @@ Schedule
 | Wed Aug 23 | [Introduction](slides/01-introduction.pptx) |      |                                                                                                         |
 | Mon Aug 28 | [Ubiquitous computing and the IoT](slides/02-ubiquitous.pptx)  | | No reviews: (1) [Ubiquitous Computing](weiser93ubiquitous.pdf), (2) [IoT Research Challenges](iot_challenges.pdf) |
 |            | **Applications**                  |      |                                                                                                         |
-| Wed Aug 30 | Outdoor and Wildlife Monitoring   |      | (1) [Great Duck Island](szewczyk04greatduckisland.pdf), (2) [Bat Tracking](sommer16battracking.pdf)             |
-| Mon Sep 4  | Urban Environments                |      | (1) [Array of Things](catlett17aot.pdf), (2) [Air Quality](devarakonda13airquality.pdf)                         |
+| Wed Aug 30 | [Outdoor and Wildlife Monitoring](slides/03-outdoor.pptx) | Campbell | (1) [Great Duck Island](szewczyk04greatduckisland.pdf), (2) [Bat Tracking](sommer16battracking.pdf)             |
+| Mon Sep 4  | Urban Environments                | Campbell | (1) [Array of Things](catlett17aot.pdf), (2) [Air Quality](devarakonda13airquality.pdf)                         |
 | Wed Sep 6  | Buildings and Energy              |      | (1) [Sentinel](balaji13sentinel.pdf), (2) [CapNet](saifullah14capnet.pdf)                                       |
 | Mon Sep 11 | Democratic Monitoring             |      | (1) [SeaGlass](ney17seaglass.pdf)                                                                           |
 | Wed Sep 13 | Personal and Population Health    |      | (1) [LIBS](nguyen16libs.pdf), (2) [Opo](huang14opo.pdf)                                                         |
 | Mon Sep 18 | Infrastructure and Industrial     |      | (1) [Pipeline](nachman07pipeline.pdf), (2) [Alps](lazik15alps.pdf)                                              |
-| Wed Sep 20 | Safety and Security               |      | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                    |
+| Wed Sep 20 | Safety and Security               | Anderson | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                    |
 | Mon Sep 25 | Project Workshop 1                |      | Bring first version to class.  |
 |            | **Sensors, Hardware, Energy**     |      |                                                                                                         |
 | Wed Sep 27 | Hardware Platforms and Smart Dust |      | (1) [TelosB](polastre05telos.pdf), (2) [Firestorm](anderson16firestorm.pdf), (3) [M3](??)                           |
