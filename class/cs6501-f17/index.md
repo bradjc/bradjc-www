@@ -148,7 +148,7 @@ Schedule
 | Wed Oct 11 | Hardware Generation and Sensing 1 |      | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf)                                                           |
 | Mon Oct 16 | Sensing 2                         |      | (1) [PASEM](lorek14pasem.pdf), (2) [Synthetic Sensors](laput17syntheticsensors.pdf)                             |
 |            | **Networking and Interfacing**    |      |                                                                                                         |
-| Wed Oct 18 | Low Power Wireless                |      | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                       |
+| Wed Oct 18 | Low Power Wireless                | Crump | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                       |
 | Mon Oct 23 | Multi- and Single-hop Networking  |      | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Blend](julien17blend.pdf), LoRa                             |
 | Wed Oct 25 | Project Workshop 2                |      | Bring second version of the project paper to class.                                                             |
 | Mon Oct 30 | Backscatter and Whitespaces       |      | (1) [Interscatter](iyer16interscatter.pdf), (2) [SNOW](saifullah16snow.pdf)                                     |
