@@ -26,6 +26,10 @@ designing and deploying gateways that providing networking and services for the
 embedded devices, and supporting the deployments with a cloud infrastructure for
 processing and visualization.
 
+**I'm looking for motivated EE/CpE/CS Ph.D. students to join my lab.** If you
+are interested in building sensors, networking devices, deploying systems, or
+designing better IoT systems, get in touch.
+
 
 # News
 
@@ -37,6 +41,7 @@ processing and visualization.
 
 # Service
 
+- 2018 TPCs: [IPSN](http://ipsn.acm.org/2018/)
 - 2017 TPCs: [IPSN](http://ipsn.acm.org/2017/), [SenSys](http://sensys.acm.org/2017/), [BuildSys](http://buildsys.acm.org/2017/), [ENSsys](http://www.enssys.org/2017/), [SafeThings](https://www.safethings.info/)
 - 2016 TPCs: [ENSsys](http://www.enssys.org/2016/)
 - 2015 TPCs: [ENSsys](http://www.enssys.org/2015/)
