@@ -127,40 +127,40 @@ Schedule
 --------
 
 
-| Class      | Topic                             | Lead | Details                                                                                                 |
-|------------|-----------------------------------|------|---------------------------------------------------------------------------------------------------------|
-| Wed Aug 23 | [Introduction](slides/01-introduction.pptx) |      |                                                                                                         |
-| Mon Aug 28 | [Ubiquitous computing and the IoT](slides/02-ubiquitous.pptx)  | | No reviews: (1) [Ubiquitous Computing](weiser93ubiquitous.pdf), (2) [IoT Research Challenges](iot_challenges.pdf) |
-|            | **Applications**                  |      |                                                                                                         |
-| Wed Aug 30 | [Outdoor and Wildlife Monitoring](slides/03-outdoor.pptx) | Campbell | (1) [Great Duck Island](szewczyk04greatduckisland.pdf), (2) [Bat Tracking](sommer16battracking.pdf)             |
-| Mon Sep 4  | Urban Environments                | Campbell | (1) [Array of Things](catlett17aot.pdf), (2) [Air Quality](devarakonda13airquality.pdf)                         |
-| Wed Sep 6  | Buildings and Energy              | Campbell | (1) [Sentinel](balaji13sentinel.pdf), (2) [CapNet](saifullah14capnet.pdf)                                       |
-| Mon Sep 11 | [Democratic Monitoring](slides/06-seaglass.pptx) | Campbell | (1) [SeaGlass](ney17seaglass.pdf)                                                                           |
-| Wed Sep 13 | Personal and Population Health    | Campbell | (1) [LIBS](nguyen16libs.pdf), (2) [Opo](huang14opo.pdf)                                                         |
-| Mon Sep 18 | Infrastructure and Industrial     |      | (1) [Pipeline](nachman07pipeline.pdf), (2) [Alps](lazik15alps.pdf)                                              |
-| Wed Sep 20 | Safety and Security               | Anderson | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                    |
-| Mon Sep 25 | Project Workshop 1                |      | Bring first version to class.  |
-|            | **Sensors, Hardware, Energy**     |      |                                                                                                         |
-| Wed Sep 27 | Hardware Platforms and Smart Dust |      | (1) [TelosB](polastre05telos.pdf), (2) [Firestorm](anderson16firestorm.pdf), (3) [M3](??)                           |
-| Mon Oct 2  | Energy Harvesting 1               |      | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                   |
-| Wed Oct 4  |                                   |      | No class (Reading day)                                                                                  |
-| Mon Oct 9  | Energy Harvesting 2               |      | (1) [DoubleDip](martin12doubledip.pdf), (2) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf)         |
-| Wed Oct 11 | Hardware Generation and Sensing 1 |      | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf)                                                           |
-| Mon Oct 16 | Sensing 2                         |      | (1) [PASEM](lorek14pasem.pdf), (2) [Synthetic Sensors](laput17syntheticsensors.pdf)                             |
-|            | **Networking and Interfacing**    |      |                                                                                                         |
-| Wed Oct 18 | Low Power Wireless                | Crump | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                       |
-| Mon Oct 23 | Multi- and Single-hop Networking  |      | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Blend](julien17blend.pdf), LoRa                             |
-| Wed Oct 25 | Project Workshop 2                |      | Bring second version of the project paper to class.                                                             |
-| Mon Oct 30 | Backscatter and Whitespaces       |      | (1) [Interscatter](iyer16interscatter.pdf), (2) [SNOW](saifullah16snow.pdf)                                     |
-| Wed Nov 1  | Gateways                          |      | (1) [Gateway Problem](zachariah15gateway.pdf), (2) [Fabryq](mcgrath15fabryq.pdf)                                |
-| Mon Nov 6  |                                   |      | No class (SenSys). Work on project paper.                                                                         |
-| Wed Nov 8  |                                   |      | No class (SenSys). Work on project paper.                                                                         |
-|            | **Programming and Security**      |      |                                                                                                         |
-| Mon Nov 13 | Operating Systems                 |      | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                                        |
-| Wed Nov 15 | IoT Frameworks                    |      | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                               |
-| Mon Nov 20 | IoT Security                      | Ulkuatam | (1) [SmartAuth](tian17smartauth.pdf), (2) [Electromyography](yang16electromyography.pdf)                        |
-| Wed Nov 22 |                                   |      | No class (Thanksgiving)                                                                                 |
-| Mon Nov 27 | Misusing Sensors                  |      | (1) [Gyrophone](michalevsky14gyrophone.pdf), (2) [PitchIn](han17pitchin.pdf). Final papers due.              |
-|            | **End**                           |      |                                                                                                         |
-| Wed Nov 29 | Project Presentations 1           |      |                                                                                                         |
-| Mon Dec 4  | Project Presentations 2           |      |                                                                                                         |
+| Class      | Topic                                                         | Lead     | Details                                                                                                           |
+|------------|---------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
+| Wed Aug 23 | [Introduction](slides/01-introduction.pptx)                   |          |                                                                                                                   |
+| Mon Aug 28 | [Ubiquitous computing and the IoT](slides/02-ubiquitous.pptx) |          | No reviews: (1) [Ubiquitous Computing](weiser93ubiquitous.pdf), (2) [IoT Research Challenges](iot_challenges.pdf) |
+|            | **Applications**                                              |          |                                                                                                                   |
+| Wed Aug 30 | [Outdoor and Wildlife Monitoring](slides/03-outdoor.pptx)     | Campbell | (1) [Great Duck Island](szewczyk04greatduckisland.pdf), (2) [Bat Tracking](sommer16battracking.pdf)               |
+| Mon Sep 4  | Urban Environments                                            | Campbell | (1) [Array of Things](catlett17aot.pdf), (2) [Air Quality](devarakonda13airquality.pdf)                           |
+| Wed Sep 6  | Buildings and Energy                                          | Campbell | (1) [Sentinel](balaji13sentinel.pdf), (2) [CapNet](saifullah14capnet.pdf)                                         |
+| Mon Sep 11 | [Democratic Monitoring](slides/06-seaglass.pptx)              | Campbell | (1) [SeaGlass](ney17seaglass.pdf)                                                                                 |
+| Wed Sep 13 | Personal and Population Health                                | Campbell | (1) [LIBS](nguyen16libs.pdf), (2) [Opo](huang14opo.pdf)                                                           |
+| Mon Sep 18 | [Infrastructure and Industrial](slides/08-infra.pptx)         | Campbell | (1) [Pipeline](nachman07pipeline.pdf), (2) [Alps](lazik15alps.pdf)                                                |
+| Wed Sep 20 | Safety and Security                                           | Anderson | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                      |
+| Mon Sep 25 | Project Workshop 1                                            |          | Bring first version to class.                                                                                     |
+|            | **Sensors, Hardware, Energy**                                 |          |                                                                                                                   |
+| Wed Sep 27 | Hardware Platforms and Smart Dust                             |          | (1) [TelosB](polastre05telos.pdf), (2) [Firestorm](anderson16firestorm.pdf), (3) [M3](??)                         |
+| Mon Oct 2  | Energy Harvesting 1                                           |          | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                     |
+| Wed Oct 4  |                                                               |          | No class (Reading day)                                                                                            |
+| Mon Oct 9  | Energy Harvesting 2                                           |          | (1) [DoubleDip](martin12doubledip.pdf), (2) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf)           |
+| Wed Oct 11 | Hardware Generation and Sensing 1                             |          | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf)                                                            |
+| Mon Oct 16 | Sensing 2                                                     |          | (1) [PASEM](lorek14pasem.pdf), (2) [Synthetic Sensors](laput17syntheticsensors.pdf)                               |
+|            | **Networking and Interfacing**                                |          |                                                                                                                   |
+| Wed Oct 18 | Low Power Wireless                                            | Crump    | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                         |
+| Mon Oct 23 | Multi- and Single-hop Networking                              |          | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Blend](julien17blend.pdf), LoRa                                 |
+| Wed Oct 25 | Project Workshop 2                                            |          | Bring second version of the project paper to class.                                                               |
+| Mon Oct 30 | Backscatter and Whitespaces                                   |          | (1) [Interscatter](iyer16interscatter.pdf), (2) [SNOW](saifullah16snow.pdf)                                       |
+| Wed Nov 1  | Gateways                                                      |          | (1) [Gateway Problem](zachariah15gateway.pdf), (2) [Fabryq](mcgrath15fabryq.pdf)                                  |
+| Mon Nov 6  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
+| Wed Nov 8  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
+|            | **Programming and Security**                                  |          |                                                                                                                   |
+| Mon Nov 13 | Operating Systems                                             |          | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                                          |
+| Wed Nov 15 | IoT Frameworks                                                |          | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                                 |
+| Mon Nov 20 | IoT Security                                                  | Ulkuatam | (1) [SmartAuth](tian17smartauth.pdf), (2) [Electromyography](yang16electromyography.pdf)                          |
+| Wed Nov 22 |                                                               |          | No class (Thanksgiving)                                                                                           |
+| Mon Nov 27 | Misusing Sensors                                              |          | (1) [Gyrophone](michalevsky14gyrophone.pdf), (2) [PitchIn](han17pitchin.pdf). Final papers due.                   |
+|            | **End**                                                       |          |                                                                                                                   |
+| Wed Nov 29 | Project Presentations 1                                       |          |                                                                                                                   |
+| Mon Dec 4  | Project Presentations 2                                       |          |                                                                                                                   |
