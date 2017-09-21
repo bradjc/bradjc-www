@@ -106,7 +106,7 @@ The project will have four milestones:
 1. Monday, September 25: Two page paper covering your hypothesis, motivation,
 and expected results.
 2. Wednesday, October 25: Four page paper with planned experiments.
-3. Monday, November 27: Five to size page paper with preliminary results.
+3. Monday, November 27: Five to six page paper with preliminary results.
 4. Wednesday, November 29 and Monday, December 4: Project presentations.
 
 
@@ -141,9 +141,9 @@ Schedule
 | Wed Sep 20 | Safety and Security                                           | Anderson | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                      |
 | Mon Sep 25 | Project Workshop 1                                            |          | Bring first version to class.                                                                                     |
 |            | **Sensors, Hardware, Energy**                                 |          |                                                                                                                   |
-| Wed Sep 27 | Hardware Platforms and Smart Dust                             |          | (1) [TelosB](polastre05telos.pdf), (2) [Firestorm](anderson16firestorm.pdf), (3) [M3](??)                         |
-| Mon Oct 2  | Energy Harvesting 1                                           |          | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                     |
-| Wed Oct 4  |                                                               |          | No class (Reading day)                                                                                            |
+| Wed Sep 27 | Hardware Platforms and Smart Dust                             |          | (1) [TelosB](polastre05telos.pdf), (2) [M3](lee13modular.pdf), No review: (3) [Firestorm](anderson16firestorm.pdf) |
+| Mon Oct 2  |                                                               |          | No class (Reading day)                                     |
+| Wed Oct 4  | Energy Harvesting 1                                           |          | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                                                                         |
 | Mon Oct 9  | Energy Harvesting 2                                           |          | (1) [DoubleDip](martin12doubledip.pdf), (2) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf)           |
 | Wed Oct 11 | Hardware Generation and Sensing 1                             |          | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf)                                                            |
 | Mon Oct 16 | Sensing 2                                                     |          | (1) [PASEM](lorek14pasem.pdf), (2) [Synthetic Sensors](laput17syntheticsensors.pdf)                               |
