@@ -139,7 +139,7 @@ Schedule
 | Wed Sep 13 | Personal and Population Health                                | Campbell | (1) [LIBS](nguyen16libs.pdf), (2) [Opo](huang14opo.pdf)                                                           |
 | Mon Sep 18 | [Infrastructure and Industrial](slides/08-infra.pptx)         | Campbell | (1) [Pipeline](nachman07pipeline.pdf), (2) [Alps](lazik15alps.pdf)                                                |
 | Wed Sep 20 | Safety and Security                                           | Anderson | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                      |
-| Mon Sep 25 | Project Workshop 1                                            |          | Bring first version to class.                                                                                     |
+| Mon Sep 25 | [Project Workshop 1](peer_review_1.pdf)                       |          | Bring first version to class.                                                                                     |
 |            | **Sensors, Hardware, Energy**                                 |          |                                                                                                                   |
 | Wed Sep 27 | Hardware Platforms and Smart Dust                             |          | (1) [TelosB](polastre05telos.pdf), (2) [M3](lee13modular.pdf), No review: (3) [Firestorm](anderson16firestorm.pdf) |
 | Mon Oct 2  |                                                               |          | No class (Reading day)                                     |
