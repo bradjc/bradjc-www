@@ -141,18 +141,18 @@ Schedule
 | Wed Sep 20 | Safety and Security                                           | Anderson | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                      |
 | Mon Sep 25 | [Project Workshop 1](peer_review_1.pdf)                       |          | Bring first version to class.                                                                                     |
 |            | **Sensors, Hardware, Energy**                                 |          |                                                                                                                   |
-| Wed Sep 27 | Hardware Platforms and Smart Dust                             |          | (1) [TelosB](polastre05telos.pdf), (2) [M3](lee13modular.pdf), No review: (3) [Firestorm](anderson16firestorm.pdf) |
+| Wed Sep 27 | Hardware Platforms and Smart Dust                             | Campbell | (1) [TelosB](polastre05telos.pdf), (2) [M3](lee13modular.pdf), No review: (3) [Firestorm](anderson16firestorm.pdf) |
 | Mon Oct 2  |                                                               |          | No class (Reading day)                                     |
-| Wed Oct 4  | Energy Harvesting 1                                           |          | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                                                                         |
-| Mon Oct 9  | Energy Harvesting 2                                           |          | (1) [DoubleDip](martin12doubledip.pdf), (2) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf)           |
+| Wed Oct 4  | Energy Harvesting 1                                           | Campbell | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                                                                         |
+| Mon Oct 9  | Energy Harvesting 2                                           |          | (1) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf), No review: (2) [DoubleDip](martin12doubledip.pdf) |
 | Wed Oct 11 | Hardware Generation and Sensing 1                             |          | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf)                                                            |
 | Mon Oct 16 | Sensing 2                                                     |          | (1) [PASEM](lorek14pasem.pdf), (2) [Synthetic Sensors](laput17syntheticsensors.pdf)                               |
 |            | **Networking and Interfacing**                                |          |                                                                                                                   |
 | Wed Oct 18 | Low Power Wireless                                            | Crump    | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                         |
-| Mon Oct 23 | Multi- and Single-hop Networking                              |          | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Blend](julien17blend.pdf), LoRa                                 |
+| Mon Oct 23 | Networking                                                    |          | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Interscatter](iyer16interscatter.pdf)                                 |
 | Wed Oct 25 | Project Workshop 2                                            |          | Bring second version of the project paper to class.                                                               |
-| Mon Oct 30 | Backscatter and Whitespaces                                   |          | (1) [Interscatter](iyer16interscatter.pdf), (2) [SNOW](saifullah16snow.pdf)                                       |
-| Wed Nov 1  | Gateways                                                      |          | (1) [Gateway Problem](zachariah15gateway.pdf), (2) [Fabryq](mcgrath15fabryq.pdf)                                  |
+| Mon Oct 30 |                                                               |          | No class (SOSP).                                       |
+| Wed Nov 1  | Gateways and Whitespaces                                      |          | (1) [Gateway Problem](zachariah15gateway.pdf), (2) [SNOW](saifullah16snow.pdf)                                |
 | Mon Nov 6  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
 | Wed Nov 8  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
 |            | **Programming and Security**                                  |          |                                                                                                                   |
