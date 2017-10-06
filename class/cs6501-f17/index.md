@@ -157,7 +157,7 @@ Schedule
 | Wed Nov 8  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
 |            | **Programming and Security**                                  |          |                                                                                                                   |
 | Mon Nov 13 | Operating Systems                                             |          | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                                          |
-| Wed Nov 15 | IoT Frameworks                                                |          | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                                 |
+| Wed Nov 15 | IoT Frameworks                                                | Hamid    | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                                 |
 | Mon Nov 20 | IoT Security                                                  | Ulkuatam | (1) [SmartAuth](tian17smartauth.pdf), (2) [Electromyography](yang16electromyography.pdf)                          |
 | Wed Nov 22 |                                                               |          | No class (Thanksgiving)                                                                                           |
 | Mon Nov 27 | Misusing Sensors                                              |          | (1) [Gyrophone](michalevsky14gyrophone.pdf), (2) [PitchIn](han17pitchin.pdf). Final papers due.                   |
