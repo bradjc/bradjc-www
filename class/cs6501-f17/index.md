@@ -143,20 +143,20 @@ Schedule
 |            | **Sensors, Hardware, Energy**                                 |          |                                                                                                                   |
 | Wed Sep 27 | Hardware Platforms and Smart Dust                             | Campbell | (1) [TelosB](polastre05telos.pdf), (2) [M3](lee13modular.pdf), No review: (3) [Firestorm](anderson16firestorm.pdf) |
 | Mon Oct 2  |                                                               |          | No class (Reading day)                                     |
-| Wed Oct 4  | Energy Harvesting 1                                           | Campbell | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                                                                         |
-| Mon Oct 9  | Energy Harvesting 2                                           |          | (1) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf), No review: (2) [DoubleDip](martin12doubledip.pdf) |
-| Wed Oct 11 | Hardware Generation and Sensing 1                             |          | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf)                                                            |
-| Mon Oct 16 | Sensing 2                                                     |          | (1) [PASEM](lorek14pasem.pdf), (2) [Synthetic Sensors](laput17syntheticsensors.pdf)                               |
+| Wed Oct 4  | Energy Harvesting 1                                           | Campbell | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                      |
+| Mon Oct 9  | Energy Harvesting 2                                           | Campbell | (1) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf), No review: (2) [DoubleDip](martin12doubledip.pdf) |
+| Wed Oct 11 | Hardware Generation and Sensing 1                             | Campbell | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf), No review: (3) [Synthetic Sensors](laput17syntheticsensors.pdf) |
 |            | **Networking and Interfacing**                                |          |                                                                                                                   |
-| Wed Oct 18 | Low Power Wireless                                            | Crump    | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                         |
-| Mon Oct 23 | Networking                                                    |          | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Interscatter](iyer16interscatter.pdf)                                 |
+| Mon Oct 16 | Low Power Wireless                                            | Crump    | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                         |
+| Wed Oct 18 | Networking                                                    |          | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Interscatter](iyer16interscatter.pdf)                                 |
+| Mon Oct 23 | Gateways and Whitespaces                                      |          | (1) [Gateway Problem](zachariah15gateway.pdf), (2) [SNOW](saifullah16snow.pdf)                                |
 | Wed Oct 25 | Project Workshop 2                                            |          | Bring second version of the project paper to class.                                                               |
 | Mon Oct 30 |                                                               |          | No class (SOSP).                                       |
-| Wed Nov 1  | Gateways and Whitespaces                                      |          | (1) [Gateway Problem](zachariah15gateway.pdf), (2) [SNOW](saifullah16snow.pdf)                                |
+|            | **Programming and Security**                                  |          |                                                                                                                   |
+| Wed Nov 1  | Operating Systems                                             |          | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                |
 | Mon Nov 6  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
 | Wed Nov 8  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
-|            | **Programming and Security**                                  |          |                                                                                                                   |
-| Mon Nov 13 | Operating Systems                                             |          | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                                          |
+| Mon Nov 13 | Blockchain: Hype or Useful?                                   |          | TBD                                                          |
 | Wed Nov 15 | IoT Frameworks                                                | Hamid    | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                                 |
 | Mon Nov 20 | IoT Security                                                  | Ulkuatam | (1) [SmartAuth](tian17smartauth.pdf), (2) [Electromyography](yang16electromyography.pdf)                          |
 | Wed Nov 22 |                                                               |          | No class (Thanksgiving)                                                                                           |
