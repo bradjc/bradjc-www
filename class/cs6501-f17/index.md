@@ -164,3 +164,10 @@ Schedule
 |            | **End**                                                       |          |                                                                                                                   |
 | Wed Nov 29 | Project Presentations 1                                       |          |                                                                                                                   |
 | Mon Dec 4  | Project Presentations 2                                       |          |                                                                                                                   |
+
+Notes for the future!
+---------------------
+
+- Maybe replace LWB with Glossy (or do both). Flooding + network protocol is a
+a lot to cover.
+- OS papers were good choices.
