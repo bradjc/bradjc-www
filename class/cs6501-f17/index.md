@@ -168,6 +168,6 @@ Schedule
 Notes for the future!
 ---------------------
 
-- Maybe replace LWB with Glossy (or do both). Flooding + network protocol is a
+- Maybe replace LWB with Glossy (or do both). Flooding + network protocol is
 a lot to cover.
 - OS papers were good choices.
