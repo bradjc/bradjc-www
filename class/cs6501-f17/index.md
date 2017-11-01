@@ -153,14 +153,14 @@ Schedule
 | Wed Oct 25 | [Project Workshop 2](peer_review_2.pdf)                       |          | Bring second version of the project paper to class.                                                               |
 | Mon Oct 30 |                                                               |          | No class (SOSP).                                       |
 |            | **Programming and Security**                                  |          |                                                                                                                   |
-| Wed Nov 1  | Operating Systems                                             |          | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                |
+| Wed Nov 1  | Operating Systems                                             | TockOS   | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                |
 | Mon Nov 6  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
 | Wed Nov 8  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
 | Mon Nov 13 | Blockchain: Hype or Useful?                                   |          | TBD                                                          |
 | Wed Nov 15 | IoT Frameworks                                                | Hamid    | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                                 |
 | Mon Nov 20 | IoT Security                                                  | Ulkuatam | (1) [SmartAuth](tian17smartauth.pdf), (2) [Electromyography](yang16electromyography.pdf)                          |
 | Wed Nov 22 |                                                               |          | No class (Thanksgiving)                                                                                           |
-| Mon Nov 27 | Misusing Sensors                                              |          | (1) [Gyrophone](michalevsky14gyrophone.pdf), (2) [PitchIn](han17pitchin.pdf). Final papers due.                   |
+| Mon Nov 27 | Misusing Sensors                                              | Agrawal  | (1) [Gyrophone](michalevsky14gyrophone.pdf), (2) [PitchIn](han17pitchin.pdf). Final papers due.                   |
 |            | **End**                                                       |          |                                                                                                                   |
 | Wed Nov 29 | Project Presentations 1                                       |          |                                                                                                                   |
 | Mon Dec 4  | Project Presentations 2                                       |          |                                                                                                                   |
