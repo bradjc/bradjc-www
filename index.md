@@ -41,7 +41,7 @@ designing better IoT systems, get in touch.
 
 # Service
 
-- 2018 TPCs: [IPSN](http://ipsn.acm.org/2018/)
+- 2018 TPCs: [IPSN](http://ipsn.acm.org/2018/), [MobiSys](https://www.sigmobile.org/mobisys/2018/)
 - 2017 TPCs: [IPSN](http://ipsn.acm.org/2017/), [SenSys](http://sensys.acm.org/2017/), [BuildSys](http://buildsys.acm.org/2017/), [ENSsys](http://www.enssys.org/2017/), [SafeThings](https://www.safethings.info/)
 - 2016 TPCs: [ENSsys](http://www.enssys.org/2016/)
 - 2015 TPCs: [ENSsys](http://www.enssys.org/2015/)
@@ -49,7 +49,8 @@ designing better IoT systems, get in touch.
 
 # Teaching
 
-- F17: [CS6501 - IoT Sensors and Systems](class/cs6501-f17)
+- S18: CS4457/ECE4457 - Computer Networking
+- F17: [CS6501/ECE6501 - IoT Sensors and Systems](class/cs6501-f17)
 
 
 # Publications
