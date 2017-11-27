@@ -162,7 +162,7 @@ Schedule
 | Wed Nov 22 |                                                               |          | No class (Thanksgiving)                                                                                           |
 | Mon Nov 27 | Misusing Sensors                                              | Agrawal  | (1) [Gyrophone](michalevsky14gyrophone.pdf), (2) [PitchIn](han17pitchin.pdf).                    |
 |            | **End**                                                       |          |                                                                                                                   |
-| Wed Nov 29 | TBD                                                           | Campbell | Final papers due Friday.                                                                                         |
+| Wed Nov 29 | Wrap-up and Future Directions                                 | Campbell | Final papers due Friday.                                                                                         |
 | Mon Dec 4  | Project Presentations                                         | All      | 10 minute talks, 5 min Q&A                                                                 |
 
 Notes for the future!
