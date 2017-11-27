@@ -156,7 +156,7 @@ Schedule
 | Wed Nov 1  | Operating Systems                                             | TockOS   | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                |
 | Mon Nov 6  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
 | Wed Nov 8  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
-| Mon Nov 13 | Blockchain: Hype or Useful?                                   | Campbell | No Review: (1) https://spectrum.ieee.org/static/special-report-blockchain-world (2) [Sharing](bogner16sharing.pdf) |
+| Mon Nov 13 | Blockchain: Hype or Useful?                                   | Campbell | No Review: (1) [Blockchain Overview](https://spectrum.ieee.org/static/special-report-blockchain-world) (2) [Sharing](bogner16sharing.pdf) |
 | Wed Nov 15 | IoT Frameworks                                                | Hamid    | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                                 |
 | Mon Nov 20 | IoT Security                                                  | Ulkuatam | (1) [SmartAuth](tian17smartauth.pdf), (2) [Electromyography](yang16electromyography.pdf)                          |
 | Wed Nov 22 |                                                               |          | No class (Thanksgiving)                                                                                           |
