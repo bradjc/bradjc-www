@@ -49,6 +49,7 @@ designing better IoT systems, get in touch.
 
 # Teaching
 
+- F18: [CS6501 - Embedded Operating Systems](class/cs6501-f18)
 - S18: CS4457/ECE4457 - Computer Networking
 - F17: [CS6501/ECE6501 - IoT Sensors and Systems](class/cs6501-f17)
 
