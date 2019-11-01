@@ -1,0 +1,36 @@
+1,"An Analysis of a Large Scale Habitat Monitoring Application",5,3.2,3.0,3.2,3.0,2.6
+2,"Information Bang for the Energy Buck: Towards Energy- and Mobility-Aware Tracking",4,4.0,3.75,3.75,3.75,3.25
+5,"Array of Things: A Scientific Research Instrument in the Public Way",4,4.25,3.75,4.0,4.25,3.0
+6,"Real-time Air Quality Monitoring Through Mobile Sensing in Metropolitan Areas",4,4.5,3.75,3.0,4.0,3.25
+8,"Sentinel: Occupancy Based HVAC Actuation using Existing WiFi Infrastructure within Commercial Buildings",4,4.0,3.25,2.5,3.0,3.0
+9,"CapNet: A Real-Time Wireless Management Network for Data Center Power Capping",4,3.75,2.5,2.75,3.5,1.5
+10,"SeaGlass: Enabling City-Wide IMSI-Catcher Detection",5,4.4,4.0,3.0,4.0,2.0
+11,"A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring",4,4.0,3.0,3.5,4.0,3.0
+12,"Opo: A Wearable Sensor for Capturing High-Fidelity Face-to-Face Interactions",4,3.5,2.5,3.0,3.0,2.25
+14,"PIPENET: A Wireless Sensor Network for Pipeline Monitoring",5,3.2,2.6,3.2,3.4,2.0
+15,"ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization",4,3.0,2.75,2.5,2.75,2.75
+16,"Acoustic Shooter Localization with a Minimal Number of Single-Channel Wireless Sensor Nodes",5,3.0,3.0,3.0,2.8,1.8
+17,"LookUp: Enabling Pedestrian Safety Services via Shoe Sensing",5,3.8,3.0,2.4,3.4,2.2
+18,"Telos: Enabling Ultra-Low Power Wireless Research",4,4.0,3.75,4.0,3.75,2.5
+19,"A Modular 1 mm Die-Stacked Sensing Platform With Low Power I C Inter-Die Communication and Multi-Modal Energy Harvesting",1,4.0,2.0,3.0,2.0,3.0
+20,"System Design for a Synergistic, Low Power Mote/BLE Embedded Platform",3,3.6666666666666665,3.3333333333333335,3.3333333333333335,3.6666666666666665,1.6666666666666667
+21,"Design, Modeling, and Capacity Planning for Micro-Solar Power Sensor Networks",4,3.75,3.0,2.75,3.25,2.0
+22,"Monjolo: An Energy-Harvesting Energy Meter Architecture",5,4.6,3.4,3.4,4.2,2.0
+23,"Tragedy of the Coulombs: Federating Energy Storage for Tiny, Intermittently-Powered Sensors",4,3.25,2.75,3.5,3.5,1.75
+24,"DoubleDip: Leveraging Thermoelectric Harvesting for Low Power Monitoring of Sporadic Water Use",3,4.333333333333333,2.3333333333333335,3.0,3.3333333333333335,1.3333333333333333
+25,"Turning Coders into Makers: The Promise of Embedded Design Generation",4,3.75,3.0,3.0,3.5,1.5
+26,"Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar",2,4.5,3.5,3.0,4.0,3.5
+27,"Versatile Low Power Media Access for Wireless Sensor Networks",3,3.6666666666666665,2.6666666666666665,3.6666666666666665,3.6666666666666665,2.6666666666666665
+28,"Low-Power Wireless Bus",3,3.0,3.0,3.3333333333333335,3.3333333333333335,2.6666666666666665
+29,"IP is Dead, Long Live IP for Wireless Sensor Networks",5,4.0,3.0,3.2,3.6,2.0
+30,"Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices",5,3.2,3.2,3.4,3.4,1.8
+31,"SNOW: Sensor Network over White Spaces",2,3.0,2.5,3.5,3.5,2.0
+32,"The Internet of Things Has a Gateway Problem",2,3.5,3.0,3.5,4.0,1.5
+33,"A Dynamic Operating System for Sensor Nodes",5,3.0,3.0,3.0,3.2,1.6
+34,"A Simpler, Safer Programming and Execution Model for Intermittent Systems",5,3.8,3.2,3.6,4.0,1.4
+35,"Ravel: Programming IoT Applications as Distributed Models, Views, and Controllers",5,3.2,3.0,3.0,3.2,3.2
+36,"An Operating System for the Home",5,3.4,3.6,3.2,3.8,2.2
+37,"SmartAuth: User-Centered Authorization for the Internet of Things",5,3.4,3.6,3.4,3.8,2.6
+38,"Secret from Muscle: Enabling Secure Pairing with Electromyography",4,3.5,3.75,3.5,3.75,1.5
+40,"Gyrophone: Recognizing Speech From Gyroscope Signals",5,3.2,2.8,2.4,2.8,2.0
+41,"PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion",4,4.25,3.75,3.5,3.75,2.0

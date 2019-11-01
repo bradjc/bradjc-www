@@ -178,90 +178,67 @@ Schedule
 | Mon Sep 24 | [Overview (1)](slides/08-overview.pdf)                        | Campbell | Embedded OS Goals                                                         |
 | Wed Sep 26 | [Overview (2)](slides/09-overview.pdf)                        | Campbell |                                                          |
 | Mon Oct 1  | Embedded Programming                                          | Campbell | (1) [Programming Models](papers/sugihara08progmodels.pdf), (2) No review. [WSN Programming](papers/mottola11wsnprog.pdf)                                  |
-| Wed Oct 3  | Case Study 1: TinyOS                                          | Campbell | (1) [TinyOS](papers/levis06tinyos.pdf), (2) No review. [nesC](papers/gay03nesc.pdf)                                                                      |
+| Wed Oct 3  | Case Study 1: [TinyOS](slides/11-tinyos.pptx)                 | Campbell | (1) [TinyOS](papers/levis06tinyos.pdf), (2) No review. [nesC](papers/gay03nesc.pdf)                                                                      |
 | Mon Oct 8  | ✘ No Class. Reading Day.                                      |          |                                                          |
-| Wed Oct 10 | Requirement 1: Sensing                                        | Narayan  | (1) [Synthetic Sensors](papers/laput17syntheticsensors.pdf), (2) [Opo](papers/huang14opo.pdf)                                                             |
-| Mon Oct 15 | Requirement 2: Communication                                  | Nasir    | (1) [SeamBlue](papers/hussain17seamblue.pdf), (2) [OpenChirp](papers/dongare17openchirp.pdf)                                                              |
-| Wed Oct 17 | Case Study 2: Contiki                                         | Hallier  | (1) [Contiki](papers/dunkels04contiki.pdf), (2) No review. [Protothreads](papers/dunkels06protothreads.pdf)                                               |
-| Mon Oct 22 | Requirement 3: Onboard Intelligence                           | Yang     | (1) [DeepASL](papers/fang17deepasl.pdf), (2) [SpareSep](papers/bhattacharya16sparsesep.pdf)                                                               |
-| Wed Oct 24 | Requirement 4: Long Running Tasks                             | Collins  | (1) [HarvOS](papers/bhatti17harvos.pdf), (2) [DINO](papers/lucia15dino.pdf)                                                                               |
-| Mon Oct 29 | Case Study 3: Tock                                            | Campbell | (1) [Tock](papers/levy17tock.pdf)                                                                                                                         |
-| Wed Oct 31 | Hack Day                                                      |          |                                                          |
+| Wed Oct 10 | Requirement 1: [Sensing](slides/12-sensing.pdf)               | Narayan  | (1) [Synthetic Sensors](papers/laput17syntheticsensors.pdf), (2) [Opo](papers/huang14opo.pdf)                                                             |
+| Mon Oct 15 | Requirement 2: [Communication](slides/13-communication.pptx)  | Nasir    | (1) [SeamBlue](papers/hussain17seamblue.pdf), (2) [OpenChirp](papers/dongare17openchirp.pdf)                                                              |
+| Wed Oct 17 | Case Study 2: [Contiki](slides/14-contiki.pdf)                | Hallier  | (1) [Contiki](papers/dunkels04contiki.pdf), (2) No review. [Protothreads](papers/dunkels06protothreads.pdf)                                               |
+| Mon Oct 22 | Requirement 3: [Onboard Intelligence](slides/15-intelligence.pptx) | Yang| (1) [DeepASL](papers/fang17deepasl.pdf), (2) [SpareSep](papers/bhattacharya16sparsesep.pdf)                                                               |
+| Wed Oct 24 | Requirement 4: [Long Running Tasks](slides/16-long-running.pptx) | Collins | (1) [HarvOS](papers/bhatti17harvos.pdf), (2) [DINO](papers/lucia15dino.pdf)                                                                               |
+| Mon Oct 29 | Case Study 3: [Tock](slides/17-tock.pptx)                     | Campbell | (1) [Tock](papers/levy17tock.pdf)                                                                                                                         |
+| Wed Oct 31 | [Hack Day](slides/18-halloween.pptx)                          |          |                                                          |
 | Mon Nov 5  | ✘ No Class. SenSys 2018.                                      |          |                                                          |
 | Wed Nov 7  | ✘ No Class. SenSys 2018.                                      |          |                                                          |
-| Mon Nov 12 | Other Embedded OSes                                           | Paul     | (1) [RIOT](papers/baccelli12riot.pdf), (2) [Ceu](papers/santanna13ceu.pdf)                                                                                |
-| Wed Nov 14 | Requirement 5: Time                                           | Yeprem   | (1) [Mayfly](papers/hester17mayfly.pdf), (2) [OpenClock](papers/anwar18openclock.pdf)                                                                     |
-| Mon Nov 19 | Requirement 6: Security & Privacy                             | Le       | (1) [Tethys](papers/chiang18tethys.pdf), (2) [Ditio](papers/mirzamohammadi17ditio.pdf)                                                                    |
+| Mon Nov 12 | [Other Embedded OSes](slides/19-otheros.pptx)                 | Paul     | (1) [RIOT](papers/baccelli12riot.pdf), (2) [Ceu](papers/santanna13ceu.pdf)                                                                                |
+| Wed Nov 14 | Requirement 5: [Time](slides/20-time.pptx)                    | Yeprem   | (1) [Mayfly](papers/hester17mayfly.pdf), (2) [OpenClock](papers/anwar18openclock.pdf)                                                                     |
+| Mon Nov 19 | Requirement 6: [Security & Privacy](slides/21-security.pptx)  | Le       | (1) [Tethys](papers/chiang18tethys.pdf), (2) [Ditio](papers/mirzamohammadi17ditio.pdf)                                                                    |
 | Wed Nov 21 | ✘ No Class. Thanksgiving.                                     |          |                                                          |
-| Mon Nov 26 | Requirement 7: User Interface                                 | Camacho  | (1) [LumiWatch](papers/xiao18lumiwatch.pdf), (2) [Distance Pointing](papers/siddhpuria18pointing.pdf)                                                     |
-| Wed Nov 28 | Requirement 8: Coordination and Robotics                      | Ashe     |                                                 |
+| Mon Nov 26 | Requirement 7: [User Interface](slides/22-ui.pptx)            | Camacho  | (1) [LumiWatch](papers/xiao18lumiwatch.pdf), (2) [Distance Pointing](papers/siddhpuria18pointing.pdf)                                                     |
+| Wed Nov 28 | Requirement 8: [Coordination and Robotics](slides/23-coordination.pptx) | Ashe | (1) [Drone Platform](papers/pereira18drones.pdf), (2) No review. [Robotic Softness](papers/brugnaro16softness.pdf)                                        |
 | Mon Dec 3  | Presentations                                                 |          |                                                          |
 | Wed Dec 5  | Presentations                                                 |          |                                                          |
 
 
-<!--
-Tethys: Collecting Sensor Data without Infrastructure, Trust, or Maintenance
-Monitoring a Person's Heart Rate and Respiratory Rate on a Shared Bed Using Geophones
-Timely Execution on Intermittently Powered Batteryless Sensors
-Flicker: Rapid Prototyping for the Batteryless Internet-of-Things
+Paper Results
+-------------
 
+```
+Overall
+1: (4.50) DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation
+2: (4.14) TinyOS: An Operating System for Sensor Networks
+3: (4.00) LumiWatch: On-Arm Projected Graphics and Touch Input
+4: (4.00) A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring
+5: (3.89) Synthetic Sensors: Towards General-Purpose Sensing
 
+Presentation
+1: (4.33) Multiprogramming a 64 kB Computer Safely and Efficiently
+2: (4.29) Create Your Own Internet of Things
+3: (4.25) DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation
+4: (4.22) Synthetic Sensors: Towards General-Purpose Sensing
+5: (4.00) TinyOS: An Operating System for Sensor Networks
 
-privacy or security
-Ditio: Trustworthy Auditing of Sensor Activities in Mobile & IoT Devices
-Secure Sharing of Partially Homomorphic Encrypted IoT Data
+Impact
+1: (3.78) Array of Things: A Scientific Research Instrument in the Public Way
+2: (3.75) Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables
+3: (3.75) DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation
+4: (3.71) TinyOS: An Operating System for Sensor Networks
+5: (3.50) Multiprogramming a 64 kB Computer Safely and Efficiently
 
+Interest
+1: (3.89) A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring
+2: (3.86) Create Your Own Internet of Things
+3: (3.75) DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation
+4: (3.44) Synthetic Sensors: Towards General-Purpose Sensing
+5: (3.44) Array of Things: A Scientific Research Instrument in the Public Way
 
-apps sec & financial
-Two Factor Encryption in Cloud Storage Providers Using Hardware Tokens
-Cloud-Based Commissioning of Constrained Devices using Permissioned Blockchains
+Confidence
+1: (2.89) Platform for controlling and getting data from network connected drones in indoor environments
+2: (2.86) Create Your Own Internet of Things
+3: (2.78) Synthetic Sensors: Towards General-Purpose Sensing
+4: (2.67) A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring
+5: (2.56) MotionSync: Personal Energy Analytics through Motion Tags and Wearable Sensing
+```
 
-
-Pointing at a Distance with Everyday Smart Devices
-Shaishav siddhpuria18pointing
-
-https://twitter.com/scwang251/status/1034057440583712768
-
-
-
-| Class      | Topic                                                         | Lead     | Details                                                                                                           |
-|------------|---------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
-| Wed Aug 23 | [Introduction](slides/01-introduction.pptx)                   | Campbell |                                                                                                                   |
-| Mon Aug 28 | [Ubiquitous computing and the IoT](slides/02-ubiquitous.pptx) | Campbell | No reviews: (1) [Ubiquitous Computing](weiser93ubiquitous.pdf), (2) [IoT Research Challenges](iot_challenges.pdf) |
-|            | **Applications**                                              |          |                                                                                                                   |
-| Wed Aug 30 | [Outdoor and Wildlife Monitoring](slides/03-outdoor.pptx)     | Campbell | (1) [Great Duck Island](szewczyk04greatduckisland.pdf), (2) [Bat Tracking](sommer16battracking.pdf)               |
-| Mon Sep 4  | Urban Environments                                            | Campbell | (1) [Array of Things](catlett17aot.pdf), (2) [Air Quality](devarakonda13airquality.pdf)                           |
-| Wed Sep 6  | Buildings and Energy                                          | Campbell | (1) [Sentinel](balaji13sentinel.pdf), (2) [CapNet](saifullah14capnet.pdf)                                         |
-| Mon Sep 11 | [Democratic Monitoring](slides/06-seaglass.pptx)              | Campbell | (1) [SeaGlass](ney17seaglass.pdf)                                                                                 |
-| Wed Sep 13 | Personal and Population Health                                | Campbell | (1) [LIBS](nguyen16libs.pdf), (2) [Opo](huang14opo.pdf)                                                           |
-| Mon Sep 18 | [Infrastructure and Industrial](slides/08-infra.pptx)         | Campbell | (1) [Pipeline](nachman07pipeline.pdf), (2) [Alps](lazik15alps.pdf)                                                |
-| Wed Sep 20 | Safety and Security                                           | Anderson | (1) [Gunshot Detection](sallai11gunshot.pdf), (2) [LOOKUP](jain15lookup.pdf)                                      |
-| Mon Sep 25 | [Project Workshop 1](peer_review_1.pdf)                       |          | Bring first version to class.                                                                                     |
-|            | **Sensors, Hardware, Energy**                                 |          |                                                                                                                   |
-| Wed Sep 27 | Hardware Platforms and Smart Dust                             | Campbell | (1) [TelosB](polastre05telos.pdf), (2) [M3](lee13modular.pdf), No review: (3) [Firestorm](anderson16firestorm.pdf) |
-| Mon Oct 2  |                                                               |          | No class (Reading day)                                     |
-| Wed Oct 4  | Energy Harvesting 1                                           | Campbell | (1) [HydroWatch](taneja08hydrowatch.pdf), (2) [Monjolo](debruin13monjolo.pdf)                                      |
-| Mon Oct 9  | Energy Harvesting 2                                           | Campbell | (1) [Tragedy of the Coulombs](hester15tragedyofthecoulombs.pdf), No review: (2) [DoubleDip](martin12doubledip.pdf) |
-| Wed Oct 11 | Hardware Generation and Sensing 1                             | Campbell | (1) [EDG](ramesh17edg.pdf), (2) [Soli](lien16soli.pdf), No review: (3) [Synthetic Sensors](laput17syntheticsensors.pdf) |
-|            | **Networking and Interfacing**                                |          |                                                                                                                   |
-| Mon Oct 16 | Low Power Wireless                                            | Crump    | (1) [LPL](polastre04lpl.pdf), (2) [LWB](ferrari12lwb.pdf)                                                         |
-| Wed Oct 18 | Networking                                                    |          | (1) [IP is Dead, Long Live IP](hui08ip.pdf), (2) [Interscatter](iyer16interscatter.pdf)                                 |
-| Mon Oct 23 | Gateways and Whitespaces                                      | Campbell | (1) [Gateway Problem](zachariah15gateway.pdf), (2) [SNOW](saifullah16snow.pdf)                                |
-| Wed Oct 25 | [Project Workshop 2](peer_review_2.pdf)                       |          | Bring second version of the project paper to class.                                                               |
-| Mon Oct 30 |                                                               |          | No class (SOSP).                                       |
-|            | **Programming and Security**                                  |          |                                                                                                                   |
-| Wed Nov 1  | Operating Systems                                             | TockOS   | (1) [SOS](han05dynamic.pdf), (2) [DINO](lucia15dino.pdf)                                |
-| Mon Nov 6  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
-| Wed Nov 8  |                                                               |          | No class (SenSys). Work on project paper.                                                                         |
-| Mon Nov 13 | Blockchain: Hype or Useful?                                   | Campbell | No Review: (1) [Blockchain Overview](https://spectrum.ieee.org/static/special-report-blockchain-world) (2) [Sharing](bogner16sharing.pdf) |
-| Wed Nov 15 | IoT Frameworks                                                | Hamid    | (1) [Ravel](riliskis15ravel.pdf), (2) [HomeOS](dixon12homeos.pdf)                                                 |
-| Mon Nov 20 | IoT Security                                                  | Ulkuatam | (1) [SmartAuth](tian17smartauth.pdf), (2) [Electromyography](yang16electromyography.pdf)                          |
-| Wed Nov 22 |                                                               |          | No class (Thanksgiving)                                                                                           |
-| Mon Nov 27 | Misusing Sensors                                              | Agrawal  | (1) [Gyrophone](michalevsky14gyrophone.pdf), (2) [PitchIn](han17pitchin.pdf).                    |
-|            | **End**                                                       |          |                                                                                                                   |
-| Wed Nov 29 | Wrap-up and Future Directions                                 | Campbell | Final papers due Friday.                                                                                         |
-| Mon Dec 4  | Project Presentations                                         | All      | 10 minute talks, 5 min Q&A                                                                 |
- -->
 
 
 Background

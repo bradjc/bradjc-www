@@ -1,0 +1,146 @@
+paper,title,reviewername,email,Pre,Int,Imp,Ove,Con
+1,An Analysis of a Large Scale Habitat Monitoring Application,Tamanna Hamid,th4sf@virginia.edu,4,3,4,4,3
+1,An Analysis of a Large Scale Habitat Monitoring Application,Spencer Crump,sc6sm@virginia.edu,3,3,4,3,3
+1,An Analysis of a Large Scale Habitat Monitoring Application,Denny Anderson,dra2zp@virginia.edu,2,3,2,2,3
+1,An Analysis of a Large Scale Habitat Monitoring Application,Dipshil Agrawal,dpa4va@virginia.edu,4,3,3,3,3
+1,An Analysis of a Large Scale Habitat Monitoring Application,Sinan Ulkuatam,sku3hh@virginia.edu,3,3,3,3,1
+2,"Information Bang for the Energy Buck: Towards Energy- and Mobility-Aware Tracking",Spencer Crump,sc6sm@virginia.edu,4,4,4,4,3
+2,"Information Bang for the Energy Buck: Towards Energy- and Mobility-Aware Tracking",Denny Anderson,dra2zp@virginia.edu,4,5,4,4,5
+2,"Information Bang for the Energy Buck: Towards Energy- and Mobility-Aware Tracking",Dipshil Agrawal,dpa4va@virginia.edu,4,4,3,4,4
+2,"Information Bang for the Energy Buck: Towards Energy- and Mobility-Aware Tracking",Sinan Ulkuatam,sku3hh@virginia.edu,4,2,4,3,1
+5,"Array of Things: A Scientific Research Instrument in the Public Way",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,4,5,2
+5,"Array of Things: A Scientific Research Instrument in the Public Way",Dipshil Agrawal,dpa4va@virginia.edu,4,5,4,4,4
+5,"Array of Things: A Scientific Research Instrument in the Public Way",Denny Anderson,dra2zp@virginia.edu,5,5,4,5,3
+5,"Array of Things: A Scientific Research Instrument in the Public Way",Spencer Crump,sc6sm@virginia.edu,4,2,4,3,3
+6,Real-time Air Quality Monitoring Through Mobile Sensing in Metropolitan Areas,Sinan Ulkuatam,sku3hh@virginia.edu,4,2,3,4,3
+6,Real-time Air Quality Monitoring Through Mobile Sensing in Metropolitan Areas,Dipshil Agrawal,dpa4va@virginia.edu,4,5,4,4,4
+6,Real-time Air Quality Monitoring Through Mobile Sensing in Metropolitan Areas,Denny Anderson,dra2zp@virginia.edu,5,4,3,4,3
+6,Real-time Air Quality Monitoring Through Mobile Sensing in Metropolitan Areas,Spencer Crump,sc6sm@virginia.edu,5,4,2,4,3
+8,"Sentinel: Occupancy Based HVAC Actuation using Existing WiFi Infrastructure within Commercial Buildings",Sinan Ulkuatam,sku3hh@virginia.edu,3,2,1,2,3
+8,"Sentinel: Occupancy Based HVAC Actuation using Existing WiFi Infrastructure within Commercial Buildings",Dipshil Agrawal,dpa4va@virginia.edu,4,3,2,3,3
+8,"Sentinel: Occupancy Based HVAC Actuation using Existing WiFi Infrastructure within Commercial Buildings",Spencer Crump,sc6sm@virginia.edu,4,3,3,2,3
+8,"Sentinel: Occupancy Based HVAC Actuation using Existing WiFi Infrastructure within Commercial Buildings",Denny Anderson,dra2zp@virginia.edu,5,5,4,5,3
+9,"CapNet: A Real-Time Wireless Management Network for Data Center Power Capping",Dipshil Agrawal,dpa4va@virginia.edu,3,2,3,3,1
+9,"CapNet: A Real-Time Wireless Management Network for Data Center Power Capping",Spencer Crump,sc6sm@virginia.edu,4,2,3,4,2
+9,"CapNet: A Real-Time Wireless Management Network for Data Center Power Capping",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,3,4,2
+9,"CapNet: A Real-Time Wireless Management Network for Data Center Power Capping",Denny Anderson,dra2zp@virginia.edu,4,3,2,3,1
+10,"SeaGlass: Enabling City-Wide IMSI-Catcher Detection",Dipshil Agrawal,dpa4va@virginia.edu,5,3,3,4,1
+10,"SeaGlass: Enabling City-Wide IMSI-Catcher Detection",Denny Anderson,dra2zp@virginia.edu,5,5,2,4,2
+10,"SeaGlass: Enabling City-Wide IMSI-Catcher Detection",Spencer Crump,sc6sm@virginia.edu,3,5,2,3,4
+10,"SeaGlass: Enabling City-Wide IMSI-Catcher Detection",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,4,4,1
+10,"SeaGlass: Enabling City-Wide IMSI-Catcher Detection",Tamanna Hamid,th4sf@virginia.edu,5,4,4,5,2
+11,A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring,Denny Anderson,dra2zp@virginia.edu,5,5,5,5,4
+11,A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring,Dipshil Agrawal,dpa4va@virginia.edu,4,3,4,4,3
+11,A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring,Spencer Crump,sc6sm@virginia.edu,3,2,2,3,4
+11,A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring,Sinan Ulkuatam,sku3hh@virginia.edu,4,2,3,4,1
+12,"Opo: A Wearable Sensor for Capturing High-Fidelity Face-to-Face Interactions",Denny Anderson,dra2zp@virginia.edu,4,1,2,2,3
+12,"Opo: A Wearable Sensor for Capturing High-Fidelity Face-to-Face Interactions",Spencer Crump,sc6sm@virginia.edu,3,3,2,3,3
+12,"Opo: A Wearable Sensor for Capturing High-Fidelity Face-to-Face Interactions",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,4,4,1
+12,"Opo: A Wearable Sensor for Capturing High-Fidelity Face-to-Face Interactions",Dipshil Agrawal,dpa4va@virginia.edu,3,3,4,3,2
+14,"PIPENET: A Wireless Sensor Network for Pipeline Monitoring",Dipshil Agrawal,dpa4va@virginia.edu,4,3,4,4,2
+14,"PIPENET: A Wireless Sensor Network for Pipeline Monitoring",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,3,3,1
+14,"PIPENET: A Wireless Sensor Network for Pipeline Monitoring",Denny Anderson,dra2zp@virginia.edu,2,3,3,3,2
+14,"PIPENET: A Wireless Sensor Network for Pipeline Monitoring",Spencer Crump,sc6sm@virginia.edu,3,2,4,4,3
+14,"PIPENET: A Wireless Sensor Network for Pipeline Monitoring",Tamanna Hamid,th4sf@virginia.edu,3,2,2,3,2
+15,"ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization",Dipshil Agrawal,dpa4va@virginia.edu,4,3,3,3,3
+15,"ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization",Denny Anderson,dra2zp@virginia.edu,3,3,4,3,3
+15,"ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization",Sinan Ulkuatam,sku3hh@virginia.edu,3,3,2,3,2
+15,"ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization",Spencer Crump,sc6sm@virginia.edu,2,2,1,2,3
+16,Acoustic Shooter Localization with a Minimal Number of Single-Channel Wireless Sensor Nodes,Brad Campbell,bradjc@virginia.edu,3,3,3,3,3
+16,Acoustic Shooter Localization with a Minimal Number of Single-Channel Wireless Sensor Nodes,Denny Anderson,dra2zp@virginia.edu,3,2,2,2,1
+16,Acoustic Shooter Localization with a Minimal Number of Single-Channel Wireless Sensor Nodes,Dipshil Agrawal,dpa4va@virginia.edu,3,3,3,3,2
+16,Acoustic Shooter Localization with a Minimal Number of Single-Channel Wireless Sensor Nodes,Sinan Ulkuatam,sku3hh@virginia.edu,3,4,4,3,1
+16,Acoustic Shooter Localization with a Minimal Number of Single-Channel Wireless Sensor Nodes,Spencer Crump,sc6sm@virginia.edu,3,3,3,3,2
+17,"LookUp: Enabling Pedestrian Safety Services via Shoe Sensing",Brad Campbell,bradjc@virginia.edu,4,5,4,4,4
+17,"LookUp: Enabling Pedestrian Safety Services via Shoe Sensing",Spencer Crump,sc6sm@virginia.edu,4,3,2,4,2
+17,"LookUp: Enabling Pedestrian Safety Services via Shoe Sensing",Dipshil Agrawal,dpa4va@virginia.edu,4,3,3,4,3
+17,"LookUp: Enabling Pedestrian Safety Services via Shoe Sensing",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,2,3,1
+17,"LookUp: Enabling Pedestrian Safety Services via Shoe Sensing",Denny Anderson,dra2zp@virginia.edu,3,1,1,2,1
+18,"Telos: Enabling Ultra-Low Power Wireless Research",Spencer Crump,sc6sm@virginia.edu,4,5,4,3,4
+18,"Telos: Enabling Ultra-Low Power Wireless Research",Denny Anderson,dra2zp@virginia.edu,4,4,4,4,1
+18,"Telos: Enabling Ultra-Low Power Wireless Research",Dipshil Agrawal,dpa4va@virginia.edu,4,3,4,4,4
+18,"Telos: Enabling Ultra-Low Power Wireless Research",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,4,4,1
+19,A Modular 1 mm Die-Stacked Sensing Platform With Low Power I C Inter-Die Communication and Multi-Modal Energy Harvesting,Spencer Crump,sc6sm@virginia.edu,4,2,3,2,3
+20,"System Design for a Synergistic, Low Power Mote/BLE Embedded Platform",Denny Anderson,dra2zp@virginia.edu,4,5,4,4,1
+20,"System Design for a Synergistic, Low Power Mote/BLE Embedded Platform",Dipshil Agrawal,dpa4va@virginia.edu,4,3,3,4,3
+20,"System Design for a Synergistic, Low Power Mote/BLE Embedded Platform",Sinan Ulkuatam,sku3hh@virginia.edu,3,2,3,3,1
+21,"Design, Modeling, and Capacity Planning for Micro-Solar Power Sensor Networks",Denny Anderson,dra2zp@virginia.edu,3,3,3,3,1
+21,"Design, Modeling, and Capacity Planning for Micro-Solar Power Sensor Networks",Dipshil Agrawal,dpa4va@virginia.edu,4,2,3,3,2
+21,"Design, Modeling, and Capacity Planning for Micro-Solar Power Sensor Networks",Spencer Crump,sc6sm@virginia.edu,4,5,4,4,4
+21,"Design, Modeling, and Capacity Planning for Micro-Solar Power Sensor Networks",Sinan Ulkuatam,sku3hh@virginia.edu,4,2,1,3,1
+22,"Monjolo: An Energy-Harvesting Energy Meter Architecture",Denny Anderson,dra2zp@virginia.edu,5,4,4,5,1
+22,"Monjolo: An Energy-Harvesting Energy Meter Architecture",Dipshil Agrawal,dpa4va@virginia.edu,4,3,4,4,1
+22,"Monjolo: An Energy-Harvesting Energy Meter Architecture",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,3,4,1
+22,"Monjolo: An Energy-Harvesting Energy Meter Architecture",Spencer Crump,sc6sm@virginia.edu,5,3,3,4,3
+22,"Monjolo: An Energy-Harvesting Energy Meter Architecture",Tamanna Hamid,th4sf@virginia.edu,5,4,3,4,4
+23,"Tragedy of the Coulombs: Federating Energy Storage for Tiny, Intermittently-Powered Sensors",Denny Anderson,dra2zp@virginia.edu,4,2,3,3,1
+23,"Tragedy of the Coulombs: Federating Energy Storage for Tiny, Intermittently-Powered Sensors",Sinan Ulkuatam,sku3hh@virginia.edu,3,3,4,4,1
+23,"Tragedy of the Coulombs: Federating Energy Storage for Tiny, Intermittently-Powered Sensors",Tamanna Hamid,th4sf@virginia.edu,3,4,4,4,3
+23,"Tragedy of the Coulombs: Federating Energy Storage for Tiny, Intermittently-Powered Sensors",Dipshil Agrawal,dpa4va@virginia.edu,3,2,3,3,2
+24,"DoubleDip: Leveraging Thermoelectric Harvesting for Low Power Monitoring of Sporadic Water Use",Denny Anderson,dra2zp@virginia.edu,5,3,3,4,1
+24,"DoubleDip: Leveraging Thermoelectric Harvesting for Low Power Monitoring of Sporadic Water Use",Dipshil Agrawal,dpa4va@virginia.edu,5,2,3,3,2
+24,"DoubleDip: Leveraging Thermoelectric Harvesting for Low Power Monitoring of Sporadic Water Use",Sinan Ulkuatam,sku3hh@virginia.edu,3,2,3,3,1
+25,"Turning Coders into Makers: The Promise of Embedded Design Generation",Dipshil Agrawal,dpa4va@virginia.edu,4,3,4,4,1
+25,"Turning Coders into Makers: The Promise of Embedded Design Generation",Spencer Crump,sc6sm@virginia.edu,4,2,3,3,1
+25,"Turning Coders into Makers: The Promise of Embedded Design Generation",Sinan Ulkuatam,sku3hh@virginia.edu,4,4,3,4,2
+25,"Turning Coders into Makers: The Promise of Embedded Design Generation",Tamanna Hamid,th4sf@virginia.edu,3,3,2,3,2
+26,"Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar",Spencer Crump,sc6sm@virginia.edu,4,3,2,3,4
+26,"Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar",Dipshil Agrawal,dpa4va@virginia.edu,5,4,4,5,3
+27,Versatile Low Power Media Access for Wireless Sensor Networks,Spencer Crump,sc6sm@virginia.edu,4,3,4,5,3
+27,Versatile Low Power Media Access for Wireless Sensor Networks,Sinan Ulkuatam,sku3hh@virginia.edu,3,2,4,3,2
+27,Versatile Low Power Media Access for Wireless Sensor Networks,Dipshil Agrawal,dpa4va@virginia.edu,4,3,3,3,3
+28,Low-Power Wireless Bus,Spencer Crump,sc6sm@virginia.edu,2,3,3,2,3
+28,Low-Power Wireless Bus,Sinan Ulkuatam,sku3hh@virginia.edu,4,3,3,4,2
+28,Low-Power Wireless Bus,Dipshil Agrawal,dpa4va@virginia.edu,3,3,4,4,3
+29,"IP is Dead, Long Live IP for Wireless Sensor Networks",Denny Anderson,dra2zp@virginia.edu,4,2,3,3,1
+29,"IP is Dead, Long Live IP for Wireless Sensor Networks",Dipshil Agrawal,dpa4va@virginia.edu,4,3,3,3,3
+29,"IP is Dead, Long Live IP for Wireless Sensor Networks",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,2,3,1
+29,"IP is Dead, Long Live IP for Wireless Sensor Networks",Spencer Crump,sc6sm@virginia.edu,3,2,4,4,2
+29,"IP is Dead, Long Live IP for Wireless Sensor Networks",Tamanna Hamid,th4sf@virginia.edu,5,5,4,5,3
+30,"Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices",Denny Anderson,dra2zp@virginia.edu,3,4,4,4,1
+30,"Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices",Dipshil Agrawal,dpa4va@virginia.edu,4,3,4,4,2
+30,"Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices",Sinan Ulkuatam,sku3hh@virginia.edu,3,3,4,4,1
+30,"Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices",Spencer Crump,sc6sm@virginia.edu,2,2,2,2,2
+30,"Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices",Tamanna Hamid,th4sf@virginia.edu,4,4,3,3,3
+31,"SNOW: Sensor Network over White Spaces",Sinan Ulkuatam,sku3hh@virginia.edu,3,2,3,3,1
+31,"SNOW: Sensor Network over White Spaces",Spencer Crump,sc6sm@virginia.edu,3,3,4,4,3
+32,The Internet of Things Has a Gateway Problem,Sinan Ulkuatam,sku3hh@virginia.edu,3,3,4,4,1
+32,The Internet of Things Has a Gateway Problem,Spencer Crump,sc6sm@virginia.edu,4,3,3,4,2
+33,A Dynamic Operating System for Sensor Nodes,Sinan Ulkuatam,sku3hh@virginia.edu,3,2,3,3,1
+33,A Dynamic Operating System for Sensor Nodes,Tamanna Hamid,th4sf@virginia.edu,3,4,3,3,2
+33,A Dynamic Operating System for Sensor Nodes,Dipshil Agrawal,dpa4va@virginia.edu,3,3,3,3,3
+33,A Dynamic Operating System for Sensor Nodes,Spencer Crump,sc6sm@virginia.edu,3,2,3,4,1
+33,A Dynamic Operating System for Sensor Nodes,Denny Anderson,dra2zp@virginia.edu,3,4,3,3,1
+34,"A Simpler, Safer Programming and Execution Model for Intermittent Systems",Sinan Ulkuatam,sku3hh@virginia.edu,3,4,4,4,1
+34,"A Simpler, Safer Programming and Execution Model for Intermittent Systems",Tamanna Hamid,th4sf@virginia.edu,4,3,4,4,1
+34,"A Simpler, Safer Programming and Execution Model for Intermittent Systems",Dipshil Agrawal,dpa4va@virginia.edu,4,3,3,4,3
+34,"A Simpler, Safer Programming and Execution Model for Intermittent Systems",Spencer Crump,sc6sm@virginia.edu,3,2,3,3,1
+34,"A Simpler, Safer Programming and Execution Model for Intermittent Systems",Denny Anderson,dra2zp@virginia.edu,5,4,4,5,1
+35,"Ravel: Programming IoT Applications as Distributed Models, Views, and Controllers",Denny Anderson,dra2zp@virginia.edu,4,3,2,2,3
+35,"Ravel: Programming IoT Applications as Distributed Models, Views, and Controllers",Spencer Crump,sc6sm@virginia.edu,2,2,3,2,2
+35,"Ravel: Programming IoT Applications as Distributed Models, Views, and Controllers",Tamanna Hamid,th4sf@virginia.edu,4,4,4,4,3
+35,"Ravel: Programming IoT Applications as Distributed Models, Views, and Controllers",Sinan Ulkuatam,sku3hh@virginia.edu,3,3,3,4,4
+35,"Ravel: Programming IoT Applications as Distributed Models, Views, and Controllers",Dipshil Agrawal,dpa4va@virginia.edu,3,3,3,4,4
+36,An Operating System for the Home,Tamanna Hamid,th4sf@virginia.edu,2,3,3,3,2
+36,An Operating System for the Home,Dipshil Agrawal,dpa4va@virginia.edu,3,3,3,3,3
+36,An Operating System for the Home,Denny Anderson,dra2zp@virginia.edu,4,4,3,4,1
+36,An Operating System for the Home,Spencer Crump,sc6sm@virginia.edu,4,4,4,5,3
+36,An Operating System for the Home,Sinan Ulkuatam,sku3hh@virginia.edu,4,4,3,4,2
+37,"SmartAuth: User-Centered Authorization for the Internet of Things",Dipshil Agrawal,dpa4va@virginia.edu,4,3,4,4,4
+37,"SmartAuth: User-Centered Authorization for the Internet of Things",Sinan Ulkuatam,sku3hh@virginia.edu,4,4,3,4,3
+37,"SmartAuth: User-Centered Authorization for the Internet of Things",Denny Anderson,dra2zp@virginia.edu,4,5,4,4,1
+37,"SmartAuth: User-Centered Authorization for the Internet of Things",Tamanna Hamid,th4sf@virginia.edu,2,4,4,4,3
+37,"SmartAuth: User-Centered Authorization for the Internet of Things",Spencer Crump,sc6sm@virginia.edu,3,2,2,3,2
+38,"Secret from Muscle: Enabling Secure Pairing with Electromyography",Dipshil Agrawal,dpa4va@virginia.edu,4,4,4,4,2
+38,"Secret from Muscle: Enabling Secure Pairing with Electromyography",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,3,4,1
+38,"Secret from Muscle: Enabling Secure Pairing with Electromyography",Tamanna Hamid,th4sf@virginia.edu,4,5,4,5,2
+38,"Secret from Muscle: Enabling Secure Pairing with Electromyography",Denny Anderson,dra2zp@virginia.edu,2,3,3,2,1
+40,"Gyrophone: Recognizing Speech From Gyroscope Signals",Spencer Crump,sc6sm@virginia.edu,3,3,3,3,2
+40,"Gyrophone: Recognizing Speech From Gyroscope Signals",Tamanna Hamid,th4sf@virginia.edu,3,3,2,3,3
+40,"Gyrophone: Recognizing Speech From Gyroscope Signals",Denny Anderson,dra2zp@virginia.edu,3,2,1,2,1
+40,"Gyrophone: Recognizing Speech From Gyroscope Signals",Dipshil Agrawal,dpa4va@virginia.edu,4,4,3,3,3
+40,"Gyrophone: Recognizing Speech From Gyroscope Signals",Sinan Ulkuatam,sku3hh@virginia.edu,3,2,3,3,1
+41,"PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion",Spencer Crump,sc6sm@virginia.edu,4,5,3,4,3
+41,"PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion",Denny Anderson,dra2zp@virginia.edu,4,3,3,3,1
+41,"PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion",Dipshil Agrawal,dpa4va@virginia.edu,5,4,4,4,3
+41,"PitchIn: Eavesdropping via Intelligible Speech Reconstruction using Non-Acoustic Sensor Fusion",Sinan Ulkuatam,sku3hh@virginia.edu,4,3,4,4,1

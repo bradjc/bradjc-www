@@ -33,25 +33,46 @@ designing better IoT systems, get in touch.
 
 # News
 
+- August, 2018: Our Living Link Lab project was [funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1823325&HistoricalAwards=false)!
 - August, 2017: Joined the CS department at UVa!
 - August 8, 2017: Attended a [workshop about teaching](http://cra.org/new-computing-faculty-workshops-summer-2017/) for new CS faculty.
 - April 13, 2017: Successfully defended my [dissertation](/papers/campbell17dissertation.pdf)!
 
 
+# Teaching
+
+- F19: [CS6456 - Advanced Operating Systems](class/cs6456-f19), [CPS1 - Comm, Test-Beds & Policy](https://engineering.virginia.edu/link-lab/education/nrt-prospective-students#accordion295310)
+- S19: CS4457/ECE4457 - Computer Networking
+- F18: [CS6501 - Embedded Operating Systems](class/cs6501-f18)
+- S18: CS4457/ECE4457 - Computer Networking
+- F17: [CS6501/ECE6501 - IoT Sensors and Systems](class/cs6501-f17)
+
 
 # Service
 
-- 2018 TPCs: [IPSN](http://ipsn.acm.org/2018/), [MobiSys](https://www.sigmobile.org/mobisys/2018/), [BuildSys](http://buildsys.acm.org/2018/)
+- 2020 TPCs: [IPSN](http://ipsn.acm.org/2020/), [MobiCom](https://sigmobile.org/mobicom/2020/)
+- 2019 TPCs: [MobiCom](https://sigmobile.org/mobicom/2019/), [IoTDI](http://conferences.computer.org/iotDI/2019/), [BuildSys](http://buildsys.acm.org/2019/), [ENSsys](http://www.enssys.org/2019/)
+- 2018 TPCs: [IPSN](http://ipsn.acm.org/2018/), [MobiSys](https://www.sigmobile.org/mobisys/2018/), [BuildSys](http://buildsys.acm.org/2018/), [ENSsys](http://www.enssys.org/2018/)
 - 2017 TPCs: [IPSN](http://ipsn.acm.org/2017/), [SenSys](http://sensys.acm.org/2017/), [BuildSys](http://buildsys.acm.org/2017/), [ENSsys](http://www.enssys.org/2017/), [SafeThings](https://www.safethings.info/)
 - 2016 TPCs: [ENSsys](http://www.enssys.org/2016/)
 - 2015 TPCs: [ENSsys](http://www.enssys.org/2015/)
 
 
-# Teaching
+# Students
 
-- F18: [CS6501 - Embedded Operating Systems](class/cs6501-f18)
-- S18: CS4457/ECE4457 - Computer Networking
-- F17: [CS6501/ECE6501 - IoT Sensors and Systems](class/cs6501-f17)
+## Graduate
+
+- Nurani Saoda (PhD, CpE)
+- Wenpeng Wang (PhD, CpE)
+- [Nabeel Nasir](https://www.cs.virginia.edu/~nn5rh/) (PhD, CS)
+- Samyukta Venkat (PhD, CpE)
+- Rabbi Masum Billah (PhD, CS)
+
+- Alexander Sarris (MS, EE)
+
+## Undergraduate
+
+- Mert Karakas (BS, CS)
 
 
 # Publications

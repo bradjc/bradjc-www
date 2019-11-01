@@ -1,0 +1,137 @@
+Paul & Camacho
+--------------
+
+plants easy to neglect
+
+challenges
+1. choosing a mcu
+  - just claiming and getting a photon setup
+
+
+easy
+- arduino ide
+- fritzing hardware layout program
+
+hard
+- hardware
+
+
+
+Ashe
+----
+
+breathing sensing
+
+motivation
+- needed to be alittle broader
+- current solutions not enough
+
+learnings
+- "once i found the correct object" it was very easy (TI RTOS that is)
+- pthreads build on task structure, easier to use and more familiar
+- difficult to setup, not clear dependencies required in configuring buffers
+- visualization setup tools promised, then not implemented
+
+
+
+
+Yang
+----
+
+classifying loads based on their power traces
+
+motivation
+- decent answers to my motivation questions
+- good technical motivation
+
+learnings
+- conflict between printf and uart_send
+  - using one prevents the other from working...weird
+- ccs tools kinda helped, but breakpoints not great
+- uart channel pretty easy to get setup
+
+
+Nasir
+-----
+
+platform of gateways
+
+motivation
+- increased privacy
+- gateways are isolated islands, difficult to develop applications
+- heterogeneous gateways
+
+learnings
+- need better multiple hop support
+- OTA updates would be great
+
+
+
+
+Halier
+-------
+
+emotion collecting device
+
+motivation
+- hard to get data from people about mental health, people want to hide it
+- anonymous feedback
+
+learnings
+- hard to figure out where things are executing in freertos
+- toolchain issues like flashing
+
+
+pretty nice story
+
+
+Keshav
+------
+
+survey for edge computing operating systems
+
+motivation
+- latency of cloud computing
+- repurpose local computing resources
+- and we eventually got to privacy
+
+learnings
+- any?
+
+
+Le & Yeprem
+-----------
+
+pairing devices conveniently
+
+motivation
+- need to pair devices
+- want it to be easy for users
+
+learnings
+- hard to extract signal between events of sensor readings to generate keys
+  - but i dont know the extent!!
+
+
+matrix creator
+
+
+
+Collins
+-------
+
+plant tracking for dryness
+
+motivation
+- people forget to water plants
+- get experience on low power board
+
+learnings
+- difficult to do pin mappings in tinyos
+- ble module support not complete
+
+
+
+
+
+

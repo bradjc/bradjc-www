@@ -1,0 +1,25 @@
+cs6456hw1:
+  - title: "CS6456"
+    children:
+      - title: "Home"
+        url: /class/cs6456-f19/
+  - title: "Helpful Resources"
+    children:
+      - title: "Function Reference"
+        url: http://www.cplusplus.com/reference/cstdio/
+      - title: "Fork Manpage"
+        url: http://man7.org/linux/man-pages/man2/fork.2.html
+
+cs6456hw2:
+  - title: "CS6456"
+    children:
+      - title: "Home"
+        url: /class/cs6456-f19/
+  - title: "Helpful Resources"
+    children:
+      - title: "System V X64 ABI"
+        url: https://software.intel.com/sites/default/files/article/402129/mpx-linux64-abi.pdf
+      - title: "X86 Assembly Guide"
+        url: http://en.wikibooks.org/wiki/X86_Assembly
+      - title: "mov Instruction"
+        url: https://en.wikibooks.org/wiki/X86_Assembly/Data_Transfer
