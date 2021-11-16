@@ -23,16 +23,54 @@ Local Charging Map
 There aren't too many:
 
 - Central Grounds Garage: 1 J-1772 L2 charger. $2.00.
-- Darden Parking Garage: 3 NEMA 14-50 outlets. These spots require
-  a D10EV parking permit.
+- Darden Parking Garage: 3 NEMA 14-50 outlets. These spots require a D10EV
+  parking permit.
+- UVA Facilites has a few for their Nissan Leafs.
 
 ### Charging in Cville
 
-For a city its size, Charlottesville is pretty friendly for EV charging. There
-are two DC fast chargers downtown, and more a short way up US-29 (including a
-Tesla Supercharger). Several businesses have free-to-use EV chargers in their
-parking lots.
+EVgo is opening (has opened) locations in Charlottesville.
 
+- Barracks Road Shopping Center
+- Water Street Parking Garage
+
+Tesla has a Supercharger at Stonefield.
+
+There are three Greenlots chargers, two in downtown surface parking lots, and
+one at a hotel off US-29. These units, however, are notoriously unreliable and
+will probably not be repaired once they are broken.
+
+Several businesses have free-to-use EV chargers in their parking lots.
+
+
+Comparisons with Other Universities
+-----------------------------------
+
+- Virginia Tech
+  - Blacksburg, VA: 2 at the Inn
+  - NOVA: 2 J-1772 at Virginia Tech Research Center
+
+- Virginia Commonwealth University (VCU)
+  - 3 J-1772 in parking garages
+
+- George Mason University (GMU)
+  - Fairfax: 8 J-1772 in three parking lots
+  - Arlington: 3 J-1772 in Van Metre Hall Parking Garage
+
+- Carnegie Mellon University (CMU)
+  - [9 chargers in three garages](https://www.cmu.edu/parking/about/)
+
+- Notre Dame
+  - [3 chargers in two parking lots](https://green.nd.edu/resources/ev-parking/)
+
+- University of Michigan
+  - [10 chargers in five parking lots](https://ltp.umich.edu/transportation-alternatives/electric-vehicle-charging/)
+
+- University of California, Berkeley
+  - [2 chargers in one parking garage](https://pt.berkeley.edu/parking)
+
+- University of North Carolina
+  - [10 chargers in five parking lots](https://maps.unc.edu/parking/electric-vehicle-charging/)
 
 The Push for EVs
 ----------------
@@ -41,6 +79,9 @@ There is support for electric vehicles in Virginia.
 
 ### Virginia
 
+- [2020 EV-related Legislation Review](https://vacleancities.org/2020-general-assembly-legislation-update/)
+- [Tesla Continues to Open VA Superchargers](https://electrek.co/2019/09/25/tesla-accelerating-supercharger-deployment-v3-stations-confirmed/)
+- [EVgo Opens 800th Location](https://insideevs.com/news/401558/evgo-opens-800th-dc-fast-charging-location/)
 - [2018 Virginia Energy Plan](https://www.governor.virginia.gov/newsroom/all-releases/2018/october/headline-831605-en.html):
   From the governor's office, the plan describes how increasing the percentage
   of electric vehicles registered in Virginia (0.14% in 2017) can be a major
@@ -73,6 +114,8 @@ There is support for electric vehicles in Virginia.
 Related Organizations
 ---------------------
 
+- [Generation180](https://generation180.org/)
+- [EV Resource](https://www.ev-resource.com/)
 - [Virginia Clean Cities](http://vacleancities.org/)
 - [Shenandoah Valley Electric Auto Interest Group](https://www.facebook.com/ShenandoahValleyEAA/)
 

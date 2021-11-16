@@ -28,6 +28,7 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 gems:
   - jekyll-feed
+plugins:
   - jekyll/scholar
 include:
   - _teaching

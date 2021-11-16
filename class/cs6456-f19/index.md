@@ -61,6 +61,8 @@ exam.
 - [HW1](hw1.html): A Simple Shell
 - [HW2](hw2.html): A Userspace Threading Library
 - [HW3](hw3.html): A Multi-Storage Filesystem
+- [HW4](hw4.html): Learning Kernels
+- [HW5](hw5.html): Ticked Kernels
 
 
 Grading
@@ -136,16 +138,16 @@ Schedule
 |           | **Changing Requirements** |                        |            |
 | M, Oct 28 | [Heterogenous Hardware](slides/14-nvm.pptx)        | [SplitFS](https://www.cs.utexas.edu/~vijay/papers/sosp19-splitfs.pdf) |            |
 | W, Oct 30 | [OS for AI](slides/15-ml.pptx)                     | [Tensorflow](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)                        |            |
-| M, Nov 4  | Security              | [ZebRAM](https://www.usenix.org/system/files/osdi18-konoth.pdf)                        |            |
-| W, Nov 6  | Virtualization        | [Formal Requirements for Virtualization](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.4815&rep=rep1&type=pdf), [Xen](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf)                       |         |
+| M, Nov 4  | [Security](slides/16-rowhammer.pptx)               | [ZebRAM](https://www.usenix.org/system/files/osdi18-konoth.pdf)                        |            |
+| W, Nov 6  | [Virtualization](slides/17-virtualization.pptx)    | [Formal Requirements for Virtualization](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.4815&rep=rep1&type=pdf), [Xen](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf)                       |         |
 | M, Nov 11 | ✘ No Class. SenSys.   |                        |            |
 | W, Nov 13 | ✘ No Class. SenSys.   |                        | HW4           |
-| M, Nov 18 | Embedded OS           |                        |            |
-| W, Nov 20 | RTOS                  |                        |            |
-| M, Nov 25 | Verification          |                        |            |
+| M, Nov 18 | [Embedded OS](slides/18-embedded.pptx)  | [Tock](https://sing.stanford.edu/site/publications/levy17-tock.pdf)                       |            |
+| W, Nov 20 | [RTOS](slides/19-rtos.pptx)                  | [Mixed Criticality Systems](https://www.cs.unc.edu/~anderson/teach/comp790/papers/Vestal-RTSS.pdf)                       |            |
+| M, Nov 25 | [Testing & Verification](slides/20-testing.pptx) | [Klee](https://llvm.org/pubs/2008-12-OSDI-KLEE.pdf)                       |            |
 | W, Nov 27 | ✘ No Class. Thanksgiving Break. |              |            |
-| M, Dec 2  | Mobile/Car/Robot OS   |                        | HW5        |
-| W, Dec 4  |                       |                        | Final Exam |
+| M, Dec 2  | [Mobile/Car/Robot OS](slides/21-mobile.pptx)   |                        |         |
+| W, Dec 4  | [BPF](slides/22-end.pptx)                      |                        | HW5 |
 
 
 
@@ -162,6 +164,12 @@ https://twitter.com/i/status/1176952930899046403
 NOTES
 
 - mmap lecture not great...
+
+- hw3
+  - need to clarify that the FS should work after "power cycle"
+  - need more tests
+
+
 
 
 Oct 14
@@ -185,7 +193,35 @@ Oct 30
 - three keys for ML take over
 - issues with TVM comparison? (bad comparison baseline)
 - how to evaluate tensorflow?
+
+Nov 4
+- exokernel maps to anvil really well
+- what are the downsides to anvil? DMA and setting the cache miss rate threshold
+- the three different approaches to mitigating an attack
+  - make it harder
+  - detect and stop
+  - eliminate the possibility entirely
+
+Nov 6
+- why virtual machines, aren't processes already isolated?
+- Xen I/O virtualization ring abstraction...not the same as a sharing policy
+- Why is Xen not used today?
+
+Nov 20
+- Why does mixed criticality systems not just always assume a worst case time?
+
+Nov 25
+- Why is symbolic execution hard?
+- Why did klee have so much impact?
+Dec 2
+- Sim between android and ros
+- OS for autonomous vehicles?
+
+Dec 4
+- What magic allows userspace code to run in the kernel?
+- What benefits come for having the JIT in the kernel interpret the userspace kernel code?
 -->
+
 
 
 
