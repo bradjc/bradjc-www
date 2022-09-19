@@ -33,7 +33,11 @@ designing better IoT systems, get in touch.
 
 # News
 
-- November, 2019: Our paper on unobtrusive occupany detection was awarded
+- February, 2022: NSF awarded my [CAREER proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144940&HistoricalAwards=false)!
+- November, 2021: My student Nabeel was awarded [Best
+  Presentation](https://sensys.acm.org/2021/) at the SenSys/BuildSys 2021 PhD
+  Forum!
+- November, 2019: Our paper on unobtrusive occupancy detection was awarded
 best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 - August, 2018: Our Living Link Lab project was [funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1823325&HistoricalAwards=false)!
 - August, 2017: Joined the CS department at UVa!
@@ -43,6 +47,9 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Teaching
 
+- F22: CPS1 - Comm, Test-Beds & Policy, CS6501 - Smart and Healthy Buildings
+- S22: CS4457/ECE4457 - Computer Networking
+- F21: CPS1 - Comm, Test-Beds & Policy, CS6501 - Smart and Healthy Buildings
 - F20: CS4457/ECE4457 - Computer Networking, CPS1 - Comm, Test-Beds & Policy
 - S20: [CS6456 - Advanced Operating Systems](class/cs6456-s20)
 - F19: [CS6456 - Advanced Operating Systems](class/cs6456-f19), [CPS1 - Comm, Test-Beds & Policy](https://engineering.virginia.edu/link-lab/education/nrt-prospective-students#accordion295310)
@@ -54,7 +61,8 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Service
 
-- 2021 TPCs: [SenSys](http://sensys.acm.org/2021/)
+- 2022 TPCs: [MobiCom](https://sigmobile.org/mobicom/2022/), [SenSys](http://sensys.acm.org/2022/)
+- 2021 TPCs: [MobiCom](https://sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2021/), [BuildSys](http://buildsys.acm.org/2021/)
 - 2020 TPCs: [IPSN](http://ipsn.acm.org/2020/), [MobiCom](https://sigmobile.org/mobicom/2020/), [BuildSys](http://buildsys.acm.org/2020/)
 - 2019 TPCs: [MobiCom](https://sigmobile.org/mobicom/2019/), [IoTDI](http://conferences.computer.org/iotDI/2019/), [BuildSys](http://buildsys.acm.org/2019/), [ENSsys](http://www.enssys.org/2019/)
 - 2018 TPCs: [IPSN](http://ipsn.acm.org/2018/), [MobiSys](https://www.sigmobile.org/mobisys/2018/), [BuildSys](http://buildsys.acm.org/2018/), [ENSsys](http://www.enssys.org/2018/)
@@ -72,11 +80,11 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 - [Nabeel Nasir](https://www.cs.virginia.edu/~nn5rh/) (PhD, CS)
 - [Rabbi Masum Billah](http://www.cs.virginia.edu/~mb2vj) (PhD, CS)
 - Jiechao Gao (PhD, CS)
-- Kai Lin (MS, CS)
 - Victor Sobral (PhD, CpE)
 - Marshall Clyburn (PhD, CS)
 - Tushar Routh (PhD, CpE)
-
+- [Fateme Nikseresht](https://fatemenikseresht.github.io/) (PhD, CS)
+- G Michael Fitzgerald (MS, CS)
 
 ## Undergraduate
 
@@ -85,6 +93,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 ## Alumni
 
+- Kai Lin (MS'21') → Ernst & Young
 - Li-Pang Huang (ME'20) → UVA Dev Hub
 - Samyukta Venkat (MS'20) → EY
 - Alexander Sarris (MS'20) → Northrop Grumman
