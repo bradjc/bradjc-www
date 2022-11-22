@@ -113,8 +113,8 @@ abide by and uphold the Honor System of the University of Virginia.
 Prerequisites
 -------------
 
-- CS 2130 (CSO1)
-- CS 3130 (CSO2) OR ECE 3430 (Embedded)
+- CS 2130 (CSO1) OR CS 2150 (Program and Data Representation)
+- CS 3130 (CSO2) OR ECE 3430 (Embedded) OR CS 4414 (OS) OR CS 3330 (Architecture) OR ECE 4750 (DSP) OR Instructor Approval
 
 
 

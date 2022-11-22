@@ -42,7 +42,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 - August, 2018: Our Living Link Lab project was [funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1823325&HistoricalAwards=false)!
 - August, 2017: Joined the CS department at UVa!
 - August 8, 2017: Attended a [workshop about teaching](http://cra.org/new-computing-faculty-workshops-summer-2017/) for new CS faculty.
-- April 13, 2017: Successfully defended my [dissertation](/papers/campbell17dissertation.pdf)!
+- April 13, 2017: Successfully defended my [dissertation](papers/campbell17dissertation.pdf)!
 
 
 # Teaching
@@ -84,20 +84,22 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 - Marshall Clyburn (PhD, CS)
 - Tushar Routh (PhD, CpE)
 - [Fateme Nikseresht](https://fatemenikseresht.github.io/) (PhD, CS)
-- G Michael Fitzgerald (MS, CS)
+
 
 ## Undergraduate
 
-- Arjun Deopujari (EE, CpE)
+
 
 
 ## Alumni
 
-- Kai Lin (MS'21') → Ernst & Young
+- G Michael Fitzgerald (MS'21) → NBBI
+- Kai Lin (MS'21) → Ernst & Young
 - Li-Pang Huang (ME'20) → UVA Dev Hub
 - Samyukta Venkat (MS'20) → EY
 - Alexander Sarris (MS'20) → Northrop Grumman
 
+- Arjun Deopujari (BS) → Stanford (MS)
 - Zach Hicks (BS)
 
 # Publications
