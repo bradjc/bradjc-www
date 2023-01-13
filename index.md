@@ -33,6 +33,9 @@ designing better IoT systems, get in touch.
 
 # News
 
+- November 29, 2022: Nurani won the [Link Lab Seminar Award](https://engineering.virginia.edu/link-lab/news/link-lab-awards)!
+- November 21, 2022: Nabeel won a UVA Engineering Teaching Fellowship! We will be co-teaching a wireless IoT course Sp'23.
+- November, 2022: Rabbi and Tushar won [awarded](https://engineering.virginia.edu/link-lab/news/link-lab-weekly#20221107) UVA Engineering Endowed Graduate Fellowships!
 - February, 2022: NSF awarded my [CAREER proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144940&HistoricalAwards=false)!
 - November, 2021: My student Nabeel was awarded [Best
   Presentation](https://sensys.acm.org/2021/) at the SenSys/BuildSys 2021 PhD

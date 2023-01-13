@@ -117,6 +117,14 @@ Prerequisites
 - CS 3130 (CSO2) OR ECE 3430 (Embedded) OR CS 4414 (OS) OR CS 3330 (Architecture) OR ECE 4750 (DSP) OR Instructor Approval
 
 
+Related Courses
+---------------
+
+- ECE 4784 (Wireless Communications): Focuses on the physical layer, including
+  signaling and modulation.
+- ECE 4501 (Low Power Wireless Transceivers for IoT): Focuses more on radio
+  hardware, as well as emerging techniques and research.
+
 
 
 Schedule
