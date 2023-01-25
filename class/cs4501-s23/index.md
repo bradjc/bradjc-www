@@ -18,9 +18,10 @@ sidebar:
     <br />
     bradjc@virginia.edu
     <br />
+    <br />
     Nabeel Nasir
     <br />
-    Olsson
+    Link Lab
     <br />
     nabeeln@virginia.edu"
   - title: "Teaching Assistants"
@@ -50,9 +51,11 @@ sidebar:
 --------------------------------------------------------------------------------
  -->
 
-<!-- <img src="images/narrow_waist.png" width="23%">
-<img src="images/os_interface.png" width="23%"> -->
-<!-- <img src="images/stack-new3.png" width="23%">
+<img src="images/city-iot.jpg" width="23%">
+<img src="images/sensor.png" width="23%">
+<img src="images/ThreadBluetoothDualRadioDevice.png" width="23%">
+<!--<img src="images/os_interface.png" width="23%">
+ <img src="images/stack-new3.png" width="23%">
 <img src="images/contiki_arch.png" width="23%"> -->
 
 
@@ -105,10 +108,6 @@ By the end of the course, you will be able to...
 Grading
 -------
 
-<!-- Your grade for the course will be based on: individual or group project,
-paper reviews and peer-review of final projects, and in-class
-participation and discussion lead. -->
-
 - Quizzes: 5%
 - Labs: 20%
 - Assignments: 30%
@@ -136,7 +135,7 @@ These projects will require students to build various wireless networks and
 leverage the properties of the wireless protocols to meet given application
 requirements. The output will be working code that implements the required
 functionality. Additionally, there may be required data collection they must
-complete. (5 assignments, 30%)
+complete. (4 assignments, 30%)
 
 - **Exams**:
 An in-class exam will assess student learning of key concepts on wireless
@@ -183,9 +182,9 @@ Schedule
 
 | Date                                     | Topic(s)                  | Before Class | Due |
 |---|---|---|---|
-| W 01/18                                  | Introduction and Overview |  |  |
-| M 01/23<br>How do computers communicate? | Networking Fundamentals   |  |  |
-| W 01/25                                  | Wireshark Lab             |  | HW1 |
+| W 01/18                                  | Introduction and Overview [[slides](slides/01-intro.pptx)] |  |  |
+| M 01/23<br>How do computers communicate? | Networking Fundamentals   [[slides](slides/02-networking.pptx)] |  |  |
+| W 01/25                                  | Wireshark Lab             [[slides](slides/03-wireshark.pptx)] |  | HW1 |
 | M 01/30<br>Wireless: magic?              | Wireless Fundamentals     |  |  |
 | W 02/01<br>What is Bluetooth Low Energy? | BLE Intro                 |  |  |
 | M 02/06                                  | BLE Advertisements        |  |  |
@@ -211,7 +210,7 @@ Schedule
 | M 04/17<br>What's next?                  | Emerging communication paradigms |  |  |
 | W 04/19                                  | Guest Speaker: Everactive |  | HW4 |
 | M 04/24                                  | Lab: Final Projects       |  |  |
-| W 04/26                                  | Lab: Final Projects       |  |  |
+| W 04/26                                  | Guest Speaker: Alef       |  |  |
 | M 05/01                                  | Lab: Final Projects       |  |  |
 | Th 05/04                                 | Class Demo Day            |  | Final Project |
 
@@ -336,12 +335,7 @@ academic requirements. Students who wish to request academic accommodation for a
 religious observance should submit their request in writing directly to me by
 email as far in advance as possible. Students and instructors who have questions
 or concerns about academic accommodations for religious observance or religious
-beliefs may contact the University’s Office for Equal Opportunity and Civil
+beliefs may contact the University's Office for Equal Opportunity and Civil
 Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200. Accommodations do not
 relieve you of the responsibility for completion of any part of the coursework
 missed as the result of a religious observance.
-
-
-
-
-
