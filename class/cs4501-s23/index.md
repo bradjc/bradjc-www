@@ -119,36 +119,34 @@ Grading
 Assessments
 -----------
 
-- **Quizzes**:
-These in-class quick formative assessments will help students stay accountable
-to the material and highlight the most important aspects from the last lecture.
-(10 quizzes, 5%)
+- **Quizzes**: These in-class quick formative assessments will help students
+  stay accountable to the material and highlight the most important aspects from
+  the last lecture/class. Quiz grading is 50% completion and 50% correctness.
+  The end-of-semester quiz score is calculated out of 75% of total possible
+  points. (approx. 20 quizzes, 5%)
 
-- **Labs**:
-In-class labs will give students hands-on experience developing and debugging
-wireless networks. Labs will be largely structured and are formative
-assessments. Students will generate some output, such as a plot or paragraph
-description for light grading. (10 labs, 20%)
+- **Labs**: In-class labs will give students hands-on experience developing and
+  debugging wireless networks. Labs will be largely structured and are formative
+  assessments. Students will generate some output, such as a plot or paragraph
+  description for light grading. (10 labs, 20%)
 
-- **Assignments**:
-These projects will require students to build various wireless networks and
-leverage the properties of the wireless protocols to meet given application
-requirements. The output will be working code that implements the required
-functionality. Additionally, there may be required data collection they must
-complete. (4 assignments, 30%)
+- **Assignments**: These projects will require students to build various
+  wireless networks and leverage the properties of the wireless protocols to
+  meet given application requirements. The output will be working code that
+  implements the required functionality. Additionally, there may be required
+  data collection they must complete. (4 assignments, 30%)
 
-- **Exams**:
-An in-class exam will assess student learning of key concepts on wireless
-protocols and how they relate to applications. (1 exam, 15%)
+- **Exams**: An in-class exam will assess student learning of key concepts on
+  wireless protocols and how they relate to applications. (1 exam, 15%)
 
-- **Homework**:
-Homework will give students a chance to practice analyzing wireless protocols
-and matching protocols to applications. The homework will provide example
-questions that will be on the exam. (4 homework assignments, 10%)
+- **Homework**: Homework will give students a chance to practice analyzing
+  wireless protocols and matching protocols to applications. The homework will
+  provide example questions that will be on the exam. (4 homework assignments,
+  10%)
 
-- **Final Project**:
-The final project will have students use wireless protocols to develop their own
-application and device, and measure its performance. (1 project, 20%)
+- **Final Project**: The final project will have students use wireless protocols
+  to develop their own application and device, and measure its performance. (1
+  project, 20%)
 
 
 Honor
@@ -165,6 +163,17 @@ Prerequisites
 
 - CS 2130 (CSO1) OR CS 2150 (Program and Data Representation)
 - CS 3130 (CSO2) OR ECE 3430 (Embedded) OR CS 4414 (OS) OR CS 3330 (Architecture) OR ECE 4750 (DSP) OR Instructor Approval
+
+### Helpful Resources
+
+While there is no textbook for this course, there are some references that are
+helpful for getting up to speed with C in an embedded context.
+
+- [Introduction to C Programming](http://cs.yale.edu/homes/aspnes/classes/223/notes.html#c)
+- [C Programming: Memory and Pointers](https://github.com/kalpak92/System-Programming/blob/master/2.%20Introduction%20to%20C%20Programming/C%20Programming%20-%20Part%203.md) (ignore anything with malloc())
+- [C Programming: Standard Library](https://github.com/kalpak92/System-Programming/blob/master/2.%20Introduction%20to%20C%20Programming/C%20Programming%20-%20Part%205.md)
+- [C Pointers and Registers](https://hackaday.com/2018/04/04/the-basics-and-pitfalls-of-pointers-in-c/)
+- [Endianness](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)
 
 
 Related Courses
@@ -185,7 +194,7 @@ Schedule
 | W 01/18                                  | Introduction and Overview [[slides](slides/01-intro.pptx)] |  |  |
 | M 01/23<br>How do computers communicate? | Networking Fundamentals   [[slides](slides/02-networking.pptx)] |  |  |
 | W 01/25                                  | Wireshark Lab             [[slides](slides/03-wireshark.pptx)] |  | HW1 |
-| M 01/30<br>Wireless: magic?              | Wireless Fundamentals     |  |  |
+| M 01/30<br>Wireless: magic?              | Wireless Fundamentals     [[slides](slides/04-wireless.pptx)] |  |  |
 | W 02/01<br>What is Bluetooth Low Energy? | BLE Intro                 |  |  |
 | M 02/06                                  | BLE Advertisements        |  |  |
 | W 02/08                                  | BLE Advertisement Lab     |  |  |
