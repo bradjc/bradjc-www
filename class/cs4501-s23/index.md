@@ -21,18 +21,17 @@ sidebar:
     <br />
     Nabeel Nasir
     <br />
-    Link Lab
-    <br />
     nabeeln@virginia.edu"
   - title: "Teaching Assistants"
-    text: "TBD"
+    text: "Viswajith Govinda Rajan (Vish)
+    <br />
+    gyx4bw@virginia.edu"
   - title: "Office Hours"
-    text: "Brad Campbell
-    TBD
+    text: "Brad Campbell: Th 4-5pm, Fr 10-11am.
     <br />
-    Nabeel Nasir
+    Nabeel Nasir: Tu 2-3pm, Fr 2-3pm
     <br />
-    TBD"
+    Vish Govinda Rajan: Tu 4-5pm, We: 11-noon"
 ---
 
 <style>
@@ -183,6 +182,8 @@ Related Courses
   signaling and modulation.
 - ECE 4501 (Low Power Wireless Transceivers for IoT): Focuses more on radio
   hardware, as well as emerging techniques and research.
+- CS/ECE 4457 (Computer Networking): Focuses on the layered network stack and
+  protocols used in the internet.
 
 
 
@@ -193,13 +194,13 @@ Schedule
 |---|---|---|---|
 | W 01/18                                  | Introduction and Overview [[slides](slides/01-intro.pptx)] |  |  |
 | M 01/23<br>How do computers communicate? | Networking Fundamentals   [[slides](slides/02-networking.pptx)] |  |  |
-| W 01/25                                  | Wireshark Lab             [[slides](slides/03-wireshark.pptx)] |  | HW1 |
+| W 01/25                                  | Wireshark Lab             [[slides](slides/03-wireshark.pptx)] [[prelab](resources/wiot-lab1-prelab.pdf)] [[lab](resources/wiot-lab1.pdf)] [[postlab](resources/wiot-lab1-postlab.pdf)] |  | HW1 |
 | M 01/30<br>Wireless: magic?              | Wireless Fundamentals     [[slides](slides/04-wireless.pptx)] |  |  |
-| W 02/01<br>What is Bluetooth Low Energy? | BLE Intro                 |  |  |
-| M 02/06                                  | BLE Advertisements        |  |  |
+| W 02/01<br>What is Bluetooth Low Energy? | BLE Intro                 [[slides](slides/05-ble-intro.pptx)] |  |  |
+| M 02/06                                  | BLE Advertisements        [[slides](slides/06-ble-adv.pptx)] |  |  |
 | W 02/08                                  | BLE Advertisement Lab     |  |  |
-| M 02/13                                  | BLE Connections           |  |  |
-| W 02/15                                  | BLE Connections Lab       |  |  |
+| M 02/13                                  | BLE Connections           [[slides](slides/08-ble-connections.pptx)] |  |  |
+| W 02/15                                  | BLE Connections Lab       [[slides](slides/09-ble-connections-lab.pptx)] |  |  |
 | M 02/20<br>What other network types are there? | IEEE 802.15.4 Intro |  |  |
 | W 02/22                                  | IEEE 802.15.4 Packets     |  | HW2 |
 | M 02/27                                  | IEEE 802.15.4 Networks    |  |  |
