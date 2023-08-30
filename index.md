@@ -33,9 +33,15 @@ designing better IoT systems, get in touch.
 
 # News
 
+- May 3, 2023: Nabeel won the CS Department Outstanding Graduate Teaching Award!
+- May 3, 2023: Marshall won the CS Department Outstanding Graduate Teaching Award!
+- May 3, 2023: Fateme won the CS Department Outstanding Graduate Service Award!
+- April 24, 2023: Nurani was selected as a 2023 [CPS Rising Star](https://risingstars.linklab.virginia.edu/2023/)!
+- February 10, 2023: I was delighted to speak at the [UC Merced EECS Seminar](https://events.ucmerced.edu/event/electrical_engineering_and_computer_science_seminar_brad_campbell).
 - November 29, 2022: Nurani won the [Link Lab Seminar Award](https://engineering.virginia.edu/link-lab/news/link-lab-awards)!
 - November 21, 2022: Nabeel won a UVA Engineering Teaching Fellowship! We will be co-teaching a wireless IoT course Sp'23.
 - November, 2022: Rabbi and Tushar won [awarded](https://engineering.virginia.edu/link-lab/news/link-lab-weekly-2022#20221107) UVA Engineering Endowed Graduate Fellowships!
+- August, 2022: We organized a "Build an Internet" [workshop at C4K](https://c4kclubhouse.org/2022/05/19/summer-programs-2022/) in Charlottesville.
 - February, 2022: NSF awarded my [CAREER proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144940&HistoricalAwards=false)!
 - November, 2021: My student Nabeel was awarded [Best
   Presentation](https://sensys.acm.org/2021/) at the SenSys/BuildSys 2021 PhD
@@ -50,6 +56,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Teaching
 
+- S23: [CS/ECE4501 - Wireless for the Internet of Things](class/cs4501-s23)
 - F22: CPS1 - Comm, Test-Beds & Policy, CS6501 - Smart and Healthy Buildings
 - S22: CS4457/ECE4457 - Computer Networking
 - F21: CPS1 - Comm, Test-Beds & Policy, CS6501 - Smart and Healthy Buildings
@@ -64,6 +71,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Service
 
+- 2023 TPCs: [MobiCom](https://sigmobile.org/mobicom/2023/), [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2023/), [SenSys](http://sensys.acm.org/2023/), [BuildSys](http://buildsys.acm.org/2023/)
 - 2022 TPCs: [MobiCom](https://sigmobile.org/mobicom/2022/), [SenSys](http://sensys.acm.org/2022/)
 - 2021 TPCs: [MobiCom](https://sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2021/), [BuildSys](http://buildsys.acm.org/2021/)
 - 2020 TPCs: [IPSN](http://ipsn.acm.org/2020/), [MobiCom](https://sigmobile.org/mobicom/2020/), [BuildSys](http://buildsys.acm.org/2020/)
@@ -74,28 +82,35 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 - 2015 TPCs: [ENSsys](http://www.enssys.org/2015/)
 
 
-# Students
+# Students / Post-Docs
+
+## Post-Docs
+
+- Dong Chen (Co-advised with Arsalan Heydarian)
 
 ## Graduate
 
-- [Nurani Saoda](https://nsaoda.github.io) (PhD, CpE)
-- Wenpeng Wang (PhD, CpE)
 - [Nabeel Nasir](https://www.cs.virginia.edu/~nn5rh/) (PhD, CS)
-- [Rabbi Masum Billah](http://www.cs.virginia.edu/~mb2vj) (PhD, CS)
 - Jiechao Gao (PhD, CS)
-- Victor Sobral (PhD, CpE)
+- Victor Sobral (PhD, CpE) (Co-advised with Jon Goodall)
 - Marshall Clyburn (PhD, CS)
 - Tushar Routh (PhD, CpE)
 - [Fateme Nikseresht](https://fatemenikseresht.github.io/) (PhD, CS)
+- Viswajith Govinda Rajan (PhD, CpE)
 
 
 ## Undergraduate
 
-
+- Akan Ndem
 
 
 ## Alumni
 
+- [Nurani Saoda](https://nsaoda.github.io) (PhD'23, CpE) → Postdoc, UIUC
+- Wenpeng Wang (PhD'23, CpE) → Apple
+- [Rabbi Masum Billah](http://www.cs.virginia.edu/~mb2vj) (PhD'23, CS) → Amazon
+
+- Ryan P. Lenfant (MS'23) → NASK Inc.
 - G Michael Fitzgerald (MS'21) → NBBI
 - Kai Lin (MS'21) → Ernst & Young
 - Li-Pang Huang (ME'20) → UVA Dev Hub

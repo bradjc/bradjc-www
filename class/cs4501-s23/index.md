@@ -2,6 +2,7 @@
 permalink: "/class/cs4501-s23/"
 layout: single
 title:  "Wireless for the Internet of Things"
+description: "Wireless for the Internet of Things Course"
 sidebar:
   - title: "Course"
     text: "CS/ECE4501
@@ -25,13 +26,20 @@ sidebar:
   - title: "Teaching Assistants"
     text: "Viswajith Govinda Rajan (Vish)
     <br />
-    gyx4bw@virginia.edu"
+    gyx4bw@virginia.edu
+    <br />
+    <br />
+    Lahiru Nuwan
+    <br />
+    lnw8px@virginia.edu"
   - title: "Office Hours"
     text: "Brad Campbell: Th 4-5pm, Fr 10-11am.
     <br />
     Nabeel Nasir: Tu 2-3pm, Fr 2-3pm
     <br />
-    Vish Govinda Rajan: Tu 4-5pm, We: 11-noon"
+    Vish Govinda Rajan: Tu 4-5pm, We 11-noon
+    <br />
+    Lahiru Nuwan: We noon-1pm, We 4-5pm"
 ---
 
 <style>
@@ -41,21 +49,11 @@ sidebar:
 </style>
 
 
-<!-- - **Course**: CS6456 - Fall 2019
-- **Instructor**: Brad Campbell
-- **Time**: M/W 2:00-3:15pm
-- **Location**: 340 Rice
-- **Office Hours**: TBD
-
---------------------------------------------------------------------------------
- -->
 
 <img src="images/city-iot.jpg" width="23%">
 <img src="images/sensor.png" width="23%">
 <img src="images/ThreadBluetoothDualRadioDevice.png" width="23%">
-<!--<img src="images/os_interface.png" width="23%">
- <img src="images/stack-new3.png" width="23%">
-<img src="images/contiki_arch.png" width="23%"> -->
+
 
 
 Overview
@@ -78,6 +76,11 @@ We will look at WiFi, Classic Bluetooth, Bluetooth Low Energy, IEEE 802.15.4,
 2G/3G/4G/5G cellular, LTE-M, NB-IoT, LoRa, and Z-Wave. We will also explore some
 emerging wireless options, such as visible light communication (VLC), infrared
 communication (IR), ultrasonic, wake-up radios, and backscatter.
+
+Projects
+--------
+
+The list of [student projects](projects.html) is posted!
 
 <!-- Deliverables
 ------------
@@ -201,28 +204,28 @@ Schedule
 | W 02/08                                  | BLE Advertisement Lab     |  |  |
 | M 02/13                                  | BLE Connections           [[slides](slides/08-ble-connections.pptx)] |  |  |
 | W 02/15                                  | BLE Connections Lab       [[slides](slides/09-ble-connections-lab.pptx)] |  |  |
-| M 02/20<br>What other network types are there? | IEEE 802.15.4 Intro |  |  |
-| W 02/22                                  | IEEE 802.15.4 Packets     |  | HW2 |
-| M 02/27                                  | IEEE 802.15.4 Networks    |  |  |
-| W 03/01                                  | IEEE 802.15.4 Lab         |  | A1 |
+| M 02/20<br>What other network types are there? | IEEE 802.15.4 Intro [[slides](slides/10-802.15.4-intro.pptx)] |  |  |
+| W 02/22                                  | IEEE 802.15.4 Packets     [[slides](slides/11-802.15.4-packets-mac.pptx)] |  |  |
+| M 02/27                                  | IEEE 802.15.4 Networks    [[slides](slides/12-802.15.4-mesh.pptx)] |  |  |
+| W 03/01                                  | IEEE 802.15.4 Lab         |  | A2, HW2 |
 | M 03/06                                  | No Class: Spring Break    |  |  |
 | W 03/08                                  | No Class: Spring Break    |  |  |
-| M 03/13<br>How do nodes become networks? | Thread + Routing          |  |  |
-| W 03/15                                  | Thread Lab                |  | A2 |
-| M 03/20<br>What about WiFi?              | WiFi for IoT              |  |  |
-| W 03/22                                  | WiFi Lab                  |  | HW3 |
-| M 03/27<br>Ok enough short range. Can we cover long distances? | LPWAN + LoRa |  |  |
-| W 03/29                                  | LoRa Lab                  |  | A3 |
-| M 04/03<br>Is a smartphone IoT?          | 4G/5G/NBIoT               |  |  |
-| W 04/05                                  | Exam                      |  |  |
-| M 04/10                                  | Matter/LTEM/NBIoT         |  |  |
-| W 04/12                                  | Discuss Final Projects    |  | A4 |
-| M 04/17<br>What's next?                  | Emerging communication paradigms |  |  |
-| W 04/19                                  | Guest Speaker: Everactive |  | HW4 |
+| M 03/13<br>Can Samsung and Google agree? | Thread + Routing          [[slides](slides/14-thread.pptx)] |  |  |
+| W 03/15                                  | Thread Lab                |  |  |
+| M 03/20<br>What about WiFi?              | WiFi                      [[slides](slides/16-wifi.pptx)] |  |  |
+| W 03/22                                  | WiFi Lab                  |  | A3 |
+| M 03/27<br>Ok enough short range. Can we cover long distances? | LPWAN + LoRa [[slides](slides/18-lpwan-lora.pptx)] | |  |
+| W 03/29                                  | LoRa Lab                  |  |  |
+| M 04/03<br>Is a smartphone IoT?          | Exam Review               |  |  |
+| W 04/05                                  | Exam                      |  | A5 |
+| M 04/10                                  | 4G/5G, Discuss Final Projects [[slides](slides/22-cellular.pptx)]  |  |  |
+| W 04/12                                  | Matter/LTEM/NBIoT         [[slides](slides/23-celliot-backscatter-matter.pptx)] |  |  |
+| M 04/17<br>What's next?                  | Guest Speaker: VLC        [[slides](slides/April2023_VLCCourse_UVATemplatev1.pdf)] |  |  |
+| W 04/19                                  | Guest Speaker: Everactive [[slides](slides/Everactive-WIoT.pdf)] |  | A6, HW4 |
 | M 04/24                                  | Lab: Final Projects       |  |  |
 | W 04/26                                  | Guest Speaker: Alef       |  |  |
-| M 05/01                                  | Lab: Final Projects       |  |  |
-| Th 05/04                                 | Class Demo Day            |  | Final Project |
+| M 05/01                                  | Lab: Final Projects       [[slides](slides/28-wrapup.pptx)]  |  |  |
+| Th 05/04                                 | Class Demo Day            [[projects](projects.html)]|  | Final Project |
 
 
 Attendance Policy
