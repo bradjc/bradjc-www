@@ -26,4 +26,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Theme
 gem "minimal-mistakes-jekyll"
 
-gem 'jekyll-scholar'
+gem 'jekyll-scholar', "7.1.3"

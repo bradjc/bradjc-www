@@ -33,6 +33,8 @@ designing better IoT systems, get in touch.
 
 # News
 
+- September, 2023: Nabeel was awarded a UVA Engineering Endowed Graduate Fellowship!
+- September, 2023: NSF is [supporting](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303639) our effort to grow the [TockOS](https://tockos.org/) ecosystem!
 - May 3, 2023: Nabeel won the CS Department Outstanding Graduate Teaching Award!
 - May 3, 2023: Marshall won the CS Department Outstanding Graduate Teaching Award!
 - May 3, 2023: Fateme won the CS Department Outstanding Graduate Service Award!
@@ -40,7 +42,7 @@ designing better IoT systems, get in touch.
 - February 10, 2023: I was delighted to speak at the [UC Merced EECS Seminar](https://events.ucmerced.edu/event/electrical_engineering_and_computer_science_seminar_brad_campbell).
 - November 29, 2022: Nurani won the [Link Lab Seminar Award](https://engineering.virginia.edu/link-lab/news/link-lab-awards)!
 - November 21, 2022: Nabeel won a UVA Engineering Teaching Fellowship! We will be co-teaching a wireless IoT course Sp'23.
-- November, 2022: Rabbi and Tushar won [awarded](https://engineering.virginia.edu/link-lab/news/link-lab-weekly-2022#20221107) UVA Engineering Endowed Graduate Fellowships!
+- November, 2022: Rabbi and Tushar were [awarded](https://engineering.virginia.edu/link-lab/news/link-lab-weekly-2022#20221107) UVA Engineering Endowed Graduate Fellowships!
 - August, 2022: We organized a "Build an Internet" [workshop at C4K](https://c4kclubhouse.org/2022/05/19/summer-programs-2022/) in Charlottesville.
 - February, 2022: NSF awarded my [CAREER proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144940&HistoricalAwards=false)!
 - November, 2021: My student Nabeel was awarded [Best
@@ -56,6 +58,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Teaching
 
+- F23: CPS1 - Technology and Ethics, CS6501 - Smart and Healthy Buildings
 - S23: [CS/ECE4501 - Wireless for the Internet of Things](class/cs4501-s23)
 - F22: CPS1 - Comm, Test-Beds & Policy, CS6501 - Smart and Healthy Buildings
 - S22: CS4457/ECE4457 - Computer Networking
@@ -102,6 +105,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 ## Undergraduate
 
 - Akan Ndem
+- Yancheng (Ethan) Zhou
 
 
 ## Alumni
