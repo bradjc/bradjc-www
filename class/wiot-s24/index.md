@@ -91,7 +91,7 @@ Grading
 
 - Quizzes: 5%
 - Labs: 20%
-- Assignments: 30%
+- Postlabs: 30%
 - Exam: 15%
 - Homeworks: 10%
 - Final Project: 20%
@@ -109,13 +109,14 @@ Assessments
 - **Labs**: In-class labs will give students hands-on experience developing and
   debugging wireless networks. Labs will be largely structured and are formative
   assessments. Students will generate some output, such as a plot or paragraph
-  description for light grading. (10 labs, 20%)
+  description for light grading. (9 labs, 20%)
 
-- **Assignments**: These projects will require students to build various
-  wireless networks and leverage the properties of the wireless protocols to
-  meet given application requirements. The output will be working code that
-  implements the required functionality. Additionally, there may be required
-  data collection they must complete. (4 assignments, 30%)
+- **Postlabs**: These assignments will build on the in-class lab work and
+  require students to build various wireless networks and leverage the
+  properties of the wireless protocols to meet given application requirements.
+  The output will be working code that implements the required functionality.
+  Additionally, there may be required data collection to complete. Not every
+  in-class lab will have a corresponding postlab. (4 postlabs, 30%)
 
 - **Exams**: An in-class exam will assess student learning of key concepts on
   wireless protocols and how they relate to applications. (1 exam, 15%)
@@ -172,10 +173,39 @@ Related Courses
 Schedule
 --------
 
-| Date                                     | Topic(s)                  | Before Class | Due |
-|---|---|---|---|
-| TBD                                  | Introduction and Overview  |  |  |
-
+| Date                                     | Topic(s)                  | Notes         |
+|------------------------------------------|---------------------------|---------------|
+| W 01/17                                  | Introduction and Overview | HW1 released. |
+| M 01/22<br>How do computers communicate? | Networking Fundamentals   |               |
+| W 01/24                                  | [LAB] Wireshark           | Bring laptop. |
+| M 01/29<br>Wireless: magic?              | Wireless Fundamentals     |               |
+| W 01/31<br>What is Bluetooth Low Energy? | BLE Intro                 |               |
+| M 02/05<br>Discovering devices.          | BLE Advertisements        |               |
+| W 02/07                                  | [LAB] BLE Advertisement   |               |
+| M 02/12<br>Transferring data.            | BLE Connections           |               |
+| W 02/14                                  | [LAB] BLE Connections     | Has postlab.  |
+| M 02/19<br>Other network types?          | IEEE 802.15.4 Intro + MAC |               |
+| W 02/21                                  | [LAB] IEEE 802.15.4 (1)   |               |
+| M 02/26                                  | IEEE 802.15.4 Net + Mesh  |               |
+| W 02/28                                  | [LAB] IEEE 802.15.4 (2)   | Has postlab.  |
+| M 03/04                                  | No Class: Spring Break    |               |
+| W 03/06                                  | No Class: Spring Break    |               |
+| M 03/11<br>Can Samsung and Google agree? | Thread + Routing          |               |
+| W 03/13                                  | [LAB] Thread              | Has postlab.  |
+| M 03/18<br>Keep it close.                | NFC                       |               |
+| W 03/20                                  | [LAB] NFC                 |               |
+| M 03/25<br>Can we cover long distances?  | LPWAN + LoRa              |               |
+| W 03/27                                  | [LAB] LoRa                | Has postlab.  |
+| M 04/01<br>What about WiFi?              | WiFi                      |               |
+| W 04/03                                  | [LAB] WiFi                |               |
+| M 04/08                                  | Exam Review               |               |
+| W 04/10                                  | Exam                      |               |
+| M 04/15                                  | Discuss Final Projects    |               |
+| W 04/17                                  | TBD                       |               |
+| M 04/22                                  | TBD                       |               |
+| W 04/24                                  | TBD                       |               |
+| M 04/29                                  | TBD                       |               |
+| M 05/06                                  | Class Demo Day            | Final Project |
 
 
 Attendance Policy
@@ -198,12 +228,12 @@ assignments can be turned in late.
 - Labs: Labs are due one week after the corresponding lab session. You may
   submit up to one week late for a 50% score penalty. After that it will not be
   accepted.
-- Assignments: Your group has 5 late days to use throughout the semester for
-  assignments. You may use up to 3 late days on any one assignment. We will
-  automatically apply the late days if you submit the assignment late. After 3
-  days late (or if you run out of late days) there will be a 10% reduction for
-  one day late and a 20% reduction for two days late. After that the assignment
-  will not be accepted.
+- Postlabs: Your group has 5 late days to use throughout the semester for
+  postlabs. You may use up to 3 late days on any one postlab. We will
+  automatically apply the late days if you submit the postlab late. After 3 days
+  late (or if you run out of late days) there will be a 10% reduction for one
+  day late and a 20% reduction for two days late. After that the postlab will
+  not be accepted.
 - Homework: You may submit one day late for a 10% score penalty or two days late
   for a 20% score penalty. After that the homework will not be accepted. This
   ensures we can release the solutions promptly.
@@ -232,7 +262,7 @@ Specific directions for this course:
   else.
 - The pre-labs and lab reports must be done by your group with all your own
   work.
-- For the assignments, each team must write and submit their own code, reports,
+- For the postlabs, each team must write and submit their own code, reports,
   and analyses. Consulting with the internet or other written resources is
   acceptable and encouraged.
 - Exams must be done individually. Studying in groups is encouraged.
