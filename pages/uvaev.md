@@ -1,44 +1,46 @@
 ---
-permalink: "/uvaev/"
+permalink: "/pages/uvaev/"
 layout: single
 author_profile: true
 author: bradjc
-title:  "Electric Vehicles at the University of Virginia"
+title:  "Electric Vehicles in UVA/Charlottesville"
 ---
 
-
-
-
-Information and updates about electric vehicles at UVA.
+Information and updates about electric vehicles at UVA and Charlottesville.
 
 
 Local Charging Map
 ------------------
 
-<iframe src='https://www.plugshare.com/widget2.html?latitude=38.0335529&longitude=-78.5&spanLat=0.01&spanLng=0.02&plugs=1,2,3,4,5,6,42,13,7,8,9,10,11,12,14,15,16,17' width='800' height='300' allow='geolocation'></iframe>
-
-
 ### On Grounds EV Chargers
 
 There aren't too many:
 
-- Central Grounds Garage: 1 J-1772 L2 charger. $2.00.
+- Central Grounds Garage: 2 25 kW DC chargers, 1 J-1772 L2 charger.
 - Darden Parking Garage: 3 NEMA 14-50 outlets. These spots require a D10EV
   parking permit.
-- UVA Facilites has a few for their Nissan Leafs.
+- UVA Facilities has a few for their Nissan Leafs.
 
 ### Charging in Cville
 
-EVgo is opening (has opened) locations in Charlottesville.
+EVgo is has opened some outdated locations in Charlottesville. These are all
+slow 50 kW chargers.
 
 - Barracks Road Shopping Center
 - Water Street Parking Garage
+- Southside Shopping Center
 
 Tesla has a Supercharger at Stonefield.
 
-There are three Greenlots chargers, two in downtown surface parking lots, and
-one at a hotel off US-29. These units, however, are notoriously unreliable and
-will probably not be repaired once they are broken.
+The Albermarle County building has three Chargepoint DC chargers and a couple L2
+chargers. These are free, and thus are pretty busy.
+
+The Ford dealer has Blink DCFC chargers.
+
+Tiger Fuel installed two Chargepoint chargers at The Market at Mill Creek.
+
+There used to be Greenlots chargers, two in downtown surface parking lots, they
+broke and were never repaired.
 
 Several businesses have free-to-use EV chargers in their parking lots.
 
@@ -100,12 +102,16 @@ There is support for electric vehicles in Virginia.
 
 ### Charlottesville
 
-- [Mini-Grants for EV Chargers](http://www.charlottesville.org/community/community-initiatives/a-green-city/sustainable-getting-around/mini-grant-ev-charger-network):
+- [Mini-Grants for EV
+  Chargers](http://www.charlottesville.org/community/community-initiatives/a-green-city/sustainable-getting-around/mini-grant-ev-charger-network):
   The city created a grant to help subsidize the installation of publicly
   accessible EV chargers.
-- [Riverbend Development](https://www.cvillepedia.org/mediawiki/index.php?title=Riverbend_Development):
+- [Riverbend
+  Development](https://www.cvillepedia.org/mediawiki/index.php?title=Riverbend_Development):
   This development firm is a proponent of EVs, and has EV chargers at at least
-  two developments (Coca-Cola Building and Emmet Street Station).
+  two developments (Coca-Cola Building and Emmet Street Station). Although, they
+  [promised](https://www.cvilletomorrow.org/barracks-row-shopping-center-wins-panels-ok/)
+  three L2 chargers at Emmet Street Station and never installed them.
 
 
 
@@ -123,6 +129,5 @@ Related Organizations
 Why Do I Care?
 --------------
 
-Because I am an EV owner! I bought a Chevy Bolt in August 2018 and have been driving
-it ever since.
-
+Because I am an EV owner! I bought a Chevy Bolt in August 2018 and have been
+driving electric ever since.

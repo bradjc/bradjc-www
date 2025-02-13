@@ -59,6 +59,10 @@ We will look at WiFi, Classic Bluetooth, Bluetooth Low Energy, IEEE 802.15.4,
 emerging wireless options, such as visible light communication (VLC), infrared
 communication (IR), ultrasonic, wake-up radios, and backscatter.
 
+Projects
+--------
+
+The list of [student projects](projects.html) is up!
 
 
 <!-- Deliverables
@@ -175,36 +179,36 @@ Schedule
 
 | Date                                     | Topic(s)                  | Notes         |
 |------------------------------------------|---------------------------|---------------|
-| W 01/17                                  | Introduction and Overview | HW1 released. |
-| M 01/22<br>How do computers communicate? | Networking Fundamentals   |               |
+| W 01/17                                  | Introduction and Overview [[slides](slides/01-intro.pptx)] | HW1 released. |
+| M 01/22<br>How do computers communicate? | Networking Fundamentals   [[slides](slides/02-networking.pptx)] |               |
 | W 01/24                                  | [LAB] Wireshark           | Bring laptop. |
-| M 01/29<br>Wireless: magic?              | Wireless Fundamentals     |               |
-| W 01/31<br>What is Bluetooth Low Energy? | BLE Intro                 |               |
-| M 02/05<br>Discovering devices.          | BLE Advertisements        |               |
+| M 01/29<br>Wireless: magic?              | Wireless Fundamentals     [[slides](slides/04-wireless.pptx)] |               |
+| W 01/31<br>What is Bluetooth Low Energy? | BLE Intro                 [[slides](slides/05-ble-intro.pptx)] |               |
+| M 02/05<br>Discovering devices.          | BLE Advertisements        [[slides](slides/06-ble-adv.pptx)] |               |
 | W 02/07                                  | [LAB] BLE Advertisement   |               |
-| M 02/12<br>Transferring data.            | BLE Connections           |               |
+| M 02/12<br>Transferring data.            | BLE Connections           [[slides](slides/08-ble-connections.pptx)] |               |
 | W 02/14                                  | [LAB] BLE Connections     | Has postlab.  |
-| M 02/19<br>Other network types?          | IEEE 802.15.4 Intro + MAC |               |
-| W 02/21                                  | [LAB] IEEE 802.15.4 (1)   |               |
-| M 02/26                                  | IEEE 802.15.4 Net + Mesh  |               |
+| M 02/19<br>Other network types?          | IEEE 802.15.4 Intro + MAC [[slides](slides/10-802.15.4-intro.pptx)] |               |
+| W 02/21                                  | [LAB] IEEE 802.15.4 (1)   [[slides](slides/11-802.15.4-packets-lab3a.pptx)] |               |
+| M 02/26                                  | IEEE 802.15.4 Net + Mesh  [[slides](slides/12-802.15.4-mesh-mac.pptx)] |               |
 | W 02/28                                  | [LAB] IEEE 802.15.4 (2)   | Has postlab.  |
 | M 03/04                                  | No Class: Spring Break    |               |
 | W 03/06                                  | No Class: Spring Break    |               |
-| M 03/11<br>Can Samsung and Google agree? | Thread + Routing          |               |
+| M 03/11<br>Can Samsung and Google agree? | Thread + Routing          [[slides](slides/14-thread.pptx)] |               |
 | W 03/13                                  | [LAB] Thread              | Has postlab.  |
-| M 03/18<br>Keep it close.                | NFC                       |               |
+| M 03/18<br>Keep it close.                | NFC                      [[slides](slides/16-nfc.pptx)]  |               |
 | W 03/20                                  | [LAB] NFC                 |               |
-| M 03/25<br>Can we cover long distances?  | LPWAN + LoRa              |               |
+| M 03/25<br>Can we cover long distances?  | LPWAN + LoRa              [[slides](slides/18-lora.pptx)]  |               |
 | W 03/27                                  | [LAB] LoRa                | Has postlab.  |
-| M 04/01<br>What about WiFi?              | WiFi                      |               |
-| W 04/03                                  | [LAB] WiFi                |               |
+| M 04/01<br>What about WiFi?              | WiFi                      [[slides](slides/20-wifi.pptx)] |               |
+| W 04/03                                  | [LAB] WiFi                | No prelab.    |
 | M 04/08                                  | Exam Review               |               |
 | W 04/10                                  | Exam                      |               |
-| M 04/15                                  | Discuss Final Projects    |               |
-| W 04/17                                  | TBD                       |               |
-| M 04/22                                  | TBD                       |               |
-| W 04/24                                  | TBD                       |               |
-| M 04/29                                  | TBD                       |               |
+| M 04/15                                  | No Class                  |               |
+| W 04/17                                  | Discuss Final Projects    [[slides](slides/25-projects.pptx)] |               |
+| M 04/22                                  | Meet with groups          |               |
+| W 04/24                                  | Workshop                       |               |
+| M 04/29                                  | Workshop                       |               |
 | M 05/06                                  | Class Demo Day            | Final Project |
 
 

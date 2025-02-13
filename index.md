@@ -33,6 +33,8 @@ designing better IoT systems, get in touch.
 
 # News
 
+- July, 2024: [Nabeel](https://cs.ucsb.edu/people/faculty/nabeel-nasir) is now an Assistant Teaching Professor at UCSB!
+- March, 2024: Fateme won 2024 Raven Society Scholarship!
 - September, 2023: Nabeel was awarded a UVA Engineering Endowed Graduate Fellowship!
 - September, 2023: NSF is [supporting](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303639) our effort to grow the [TockOS](https://tockos.org/) ecosystem!
 - May 3, 2023: Nabeel won the CS Department Outstanding Graduate Teaching Award!
@@ -58,6 +60,9 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Teaching
 
+- S25: [CS3130 - Computer Systems and Organization 2](https://www.cs.virginia.edu/~cr4bd/3130/S2025/)
+- F24: CPS1 - Technology and Ethics, CS6501 - Smart and Healthy Buildings
+- S24: [CS/ECE4501 - Wireless for the Internet of Things](class/wiot-s24)
 - F23: CPS1 - Technology and Ethics, CS6501 - Smart and Healthy Buildings
 - S23: [CS/ECE4501 - Wireless for the Internet of Things](class/cs4501-s23)
 - F22: CPS1 - Comm, Test-Beds & Policy, CS6501 - Smart and Healthy Buildings
@@ -74,6 +79,8 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Service
 
+- 2025 TPCs: [SenSys](http://sensys.acm.org/2025/), [ENSsys](http://www.enssys.org/2025/)
+- 2024 TPCs: [SenSys](http://sensys.acm.org/2024/), [BuildSys](http://buildsys.acm.org/2024/)
 - 2023 TPCs: [MobiCom](https://sigmobile.org/mobicom/2023/), [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2023/), [SenSys](http://sensys.acm.org/2023/), [BuildSys](http://buildsys.acm.org/2023/)
 - 2022 TPCs: [MobiCom](https://sigmobile.org/mobicom/2022/), [SenSys](http://sensys.acm.org/2022/)
 - 2021 TPCs: [MobiCom](https://sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2021/), [BuildSys](http://buildsys.acm.org/2021/)
@@ -93,9 +100,9 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 ## Graduate
 
-- [Nabeel Nasir](https://www.cs.virginia.edu/~nn5rh/) (PhD, CS)
-- Jiechao Gao (PhD, CS)
-- Victor Sobral (PhD, CpE) (Co-advised with Jon Goodall)
+
+
+
 - Marshall Clyburn (PhD, CS)
 - Tushar Routh (PhD, CpE)
 - [Fateme Nikseresht](https://fatemenikseresht.github.io/) (PhD, CS)
@@ -104,25 +111,36 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 ## Undergraduate
 
-- Akan Ndem
-- Yancheng (Ethan) Zhou
+
+
 
 
 ## Alumni
 
+- Victor Sobral (PhD'24, CpE) (Co-advised with Jon Goodall) → Postdoc, UVA
+- Jiechao Gao (PhD'24, CS)
+- [Nabeel Nasir](https://www.cs.virginia.edu/~nn5rh/) (PhD'24, CS) → Assistant Teaching Professor, UCSB
 - [Nurani Saoda](https://nsaoda.github.io) (PhD'23, CpE) → Postdoc, UIUC
 - Wenpeng Wang (PhD'23, CpE) → Apple
 - [Rabbi Masum Billah](http://www.cs.virginia.edu/~mb2vj) (PhD'23, CS) → Amazon
 
+- Yue Zhu (ME'24) → 701x
 - Ryan P. Lenfant (MS'23) → NASK Inc.
+- Hoseok Lee (ME'22) → Continental
 - G Michael Fitzgerald (MS'21) → NBBI
 - Kai Lin (MS'21) → Ernst & Young
 - Li-Pang Huang (ME'20) → UVA Dev Hub
 - Samyukta Venkat (MS'20) → EY
 - Alexander Sarris (MS'20) → Northrop Grumman
 
+- Yancheng (Ethan) Zhou (BA) → Silicon Labs
+- Akan Ndem
 - Arjun Deopujari (BS) → Stanford (MS)
 - Zach Hicks (BS)
+
+# Other
+
+[Running](pages/running) | [EV](pages/uvaev)
 
 # Publications
 
