@@ -128,7 +128,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 - Ryan P. Lenfant (MS'23) → NASK Inc.
 - Hoseok Lee (ME'22) → Continental
 - G Michael Fitzgerald (MS'21) → NBBI
-- Kai Lin (MS'21) → Ernst & Young
+- Kai Lin (MS'21) → eBay Inc.
 - Li-Pang Huang (ME'20) → UVA Dev Hub
 - Samyukta Venkat (MS'20) → EY
 - Alexander Sarris (MS'20) → Northrop Grumman
