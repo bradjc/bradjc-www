@@ -96,27 +96,26 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 ## Post-Docs
 
-- Dong Chen (Co-advised with Arsalan Heydarian)
+
 
 ## Graduate
 
-
-
-
 - Marshall Clyburn (PhD, CS)
-- Tushar Routh (PhD, CpE)
 - [Fateme Nikseresht](https://fatemenikseresht.github.io/) (PhD, CS)
 - Viswajith Govinda Rajan (PhD, CpE)
 
 
 ## Undergraduate
 
-
+- Ian Chen
 
 
 
 ## Alumni
 
+- Dong Chen (Postdoc) (Co-advised with Arsalan Heydarian) → Assistant Professor, Miss. St.
+
+- Tushar Routh (PhD'25, CpE)
 - Victor Sobral (PhD'24, CpE) (Co-advised with Jon Goodall) → Postdoc, UVA
 - Jiechao Gao (PhD'24, CS)
 - [Nabeel Nasir](https://www.cs.virginia.edu/~nn5rh/) (PhD'24, CS) → Assistant Teaching Professor, UCSB
