@@ -31,8 +31,19 @@ military themed and off-putting.
 Race History
 ------------
 
+### 2025
+
+- Mar: Charlottesville Ten Miler
+- Mar: Haven 8k
+
+
 ### 2024
 
+Total distance: 27.4 miles.
+
+- Nov: <strike>Men's</strike> Four Miler
+- Oct: Halloween Hustle 10k
+- Oct: Community Bridges 5k
 - Mar: Charlottesville Ten Miler
 - Mar: Haven 8k
 

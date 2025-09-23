@@ -117,7 +117,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 - Tushar Routh (PhD'25, CpE)
 - Victor Sobral (PhD'24, CpE) (Co-advised with Jon Goodall) → Postdoc, UVA
-- Jiechao Gao (PhD'24, CS)
+- Jiechao Gao (PhD'24, CS) → Postdoc, Stanford
 - [Nabeel Nasir](https://www.cs.virginia.edu/~nn5rh/) (PhD'24, CS) → Assistant Teaching Professor, UCSB
 - [Nurani Saoda](https://nsaoda.github.io) (PhD'23, CpE) → Postdoc, UIUC
 - Wenpeng Wang (PhD'23, CpE) → Apple
