@@ -33,6 +33,8 @@ designing better IoT systems, get in touch.
 
 # News
 
+- September, 2025: Our paper on multi-tenant scheduling [won best paper](https://www.ewsn25.cs.kuleuven.be/awards) at EWSN!
+- September, 2025: NSF is [supporting](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2534083&HistoricalAwards=false) our work to ensure the security of the [Tock](https://tockos.org/) project!
 - July, 2024: [Nabeel](https://cs.ucsb.edu/people/faculty/nabeel-nasir) is now an Assistant Teaching Professor at UCSB!
 - March, 2024: Fateme won 2024 Raven Society Scholarship!
 - September, 2023: Nabeel was awarded a UVA Engineering Endowed Graduate Fellowship!
@@ -60,6 +62,7 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Teaching
 
+- F25: CPS1 - Technology and Ethics, CS6501 - Smart and Healthy Buildings
 - S25: [CS3130 - Computer Systems and Organization 2](https://www.cs.virginia.edu/~cr4bd/3130/S2025/)
 - F24: CPS1 - Technology and Ethics, CS6501 - Smart and Healthy Buildings
 - S24: [CS/ECE4501 - Wireless for the Internet of Things](class/wiot-s24)
@@ -79,7 +82,8 @@ best paper at [DFHS'19](https://dfhs-buildsys.github.io/dfhs2019/index.html)!
 
 # Service
 
-- 2025 TPCs: [SenSys](http://sensys.acm.org/2025/), [ENSsys](http://www.enssys.org/2025/)
+- 2026 TPCs: [SenSys](http://sensys.acm.org/2026/)
+- 2025 TPCs: [SenSys](http://sensys.acm.org/2025/), [ENSsys](http://www.enssys.org/2025/), [Buildsys](https://buildsys.acm.org/2025/)
 - 2024 TPCs: [SenSys](http://sensys.acm.org/2024/), [BuildSys](http://buildsys.acm.org/2024/)
 - 2023 TPCs: [MobiCom](https://sigmobile.org/mobicom/2023/), [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2023/), [SenSys](http://sensys.acm.org/2023/), [BuildSys](http://buildsys.acm.org/2023/)
 - 2022 TPCs: [MobiCom](https://sigmobile.org/mobicom/2022/), [SenSys](http://sensys.acm.org/2022/)
