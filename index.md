@@ -33,6 +33,7 @@ designing better IoT systems, get in touch.
 
 # News
 
+- October, 2025: Fateme was awarded a UVA Engineering Endowed Graduate Fellowship!
 - September, 2025: Our paper on multi-tenant scheduling [won best paper](https://www.ewsn25.cs.kuleuven.be/awards) at EWSN!
 - September, 2025: NSF is [supporting](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2534083&HistoricalAwards=false) our work to ensure the security of the [Tock](https://tockos.org/) project!
 - July, 2024: [Nabeel](https://cs.ucsb.edu/people/faculty/nabeel-nasir) is now an Assistant Teaching Professor at UCSB!
