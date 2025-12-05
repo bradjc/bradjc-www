@@ -1,3 +1,12 @@
+main:
+  - title: "UVA Link Lab"
+    url: https://engineering.virginia.edu/labs-groups/link-lab
+    target: _blank
+  - title: "UVA CS"
+    url: https://engineering.virginia.edu/department/computer-science
+    target: _blank
+
+
 cs6456hw1:
   - title: "CS6456"
     children:
