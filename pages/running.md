@@ -12,20 +12,22 @@ I run in various non-profit footraces in Charlottesville.
 Charlottesville Events
 ----------------------
 
-The overall best event is the [Charlottesville Ten
-Miler](http://www.cvilletenmiler.com/). The course traverses the city and the
-route is lined with spectators. The "don't miss" event is the [Haven
-8K](https://runsignup.com/Race/VA/Charlottesville/TheHaven8KRunforHome). The
+The overall best event is the [Charlottesville Ten Miler](http://www.cvilletenmiler.com/).
+The course traverses the city and the route is lined with spectators.
+The "don't miss" event is the [Haven 8K](https://runsignup.com/Race/VA/Charlottesville/TheHaven8KRunforHome). The
 breakfast afterwards is fantastic; tip: finish early and don't dawdle getting to
-the Haven after finishing. The most beginner-friendly race is the [Community
-Bridges 5K](https://runsignup.com/Race/VA/Charlottesville/CommunityBridges5K).
-The [Pepsi 10k](http://www.pepsi10krun.com/) is popular and always has a strong
-UVA presence. The [Big Brother Big Sisters
-5K/10K](https://runsignup.com/Race/VA/Charlottesville/BigBrothersBigSistersVIRTUAL5K)
-is very scenic and the two distances is a nice feature. The [Run For Autism
-5K](https://runsignup.com/Race/Events/VA/Charlottesville/VIArun) has a nice
-route through a neighborhood, but is pretty casual. The [4 Our Freedom
-5K](https://runsignup.com/Race/Info/VA/Earlysville/4OurFreedom5K) is overtly
+the Haven after finishing.
+The most beginner-friendly race is the [Community Bridges 5K](https://runsignup.com/Race/VA/Charlottesville/CommunityBridges5K).
+The [Pepsi 10k](http://www.pepsi10krun.com/) is popular and always has a strong UVA presence.
+The [Halloween Hustle 10k](https://piedmontymca.org/halloween-hustle) is a nice course and
+has a good spread of runners.
+The [Big Brother Big Sisters 5K/10K](https://runsignup.com/Race/VA/Charlottesville/BigBrothersBigSistersVIRTUAL5K)
+is very scenic and the two distances is a nice feature.
+The [Charlottesville Turkey Trot 5k](https://www.charlottesvilleturkeytrot.com/) is very popular
+and a fun way to start Thanksgiving.
+The [Run For Autism 5K](https://runsignup.com/Race/Events/VA/Charlottesville/VIArun) has a nice
+route through a neighborhood, but is pretty casual.
+The [4 Our Freedom 5K](https://runsignup.com/Race/Info/VA/Earlysville/4OurFreedom5K) is overtly
 military themed and off-putting.
 
 Race History
@@ -33,6 +35,8 @@ Race History
 
 ### 2025
 
+- Nov: Charlottesville Turkey Trot 5k
+- Oct: Halloween Hustle 10k
 - Mar: Charlottesville Ten Miler
 - Mar: Haven 8k
 

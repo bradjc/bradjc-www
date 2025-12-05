@@ -20,17 +20,21 @@ There aren't too many:
 - Darden Parking Garage: 3 NEMA 14-50 outlets. These spots require a D10EV
   parking permit.
 - UVA Facilities has a few for their Nissan Leafs.
+- Fontaine Research Park Garage: 14 L2 chargers.
 
 ### Charging in Cville
 
 EVgo is has opened some outdated locations in Charlottesville. These are all
 slow 50 kW chargers.
 
-- Barracks Road Shopping Center
-- Water Street Parking Garage
+- Barracks Road Shopping Center (BROKEN)
+- Water Street Parking Garage (REMOVED)
 - Southside Shopping Center
 
-Tesla has a Supercharger at Stonefield.
+Tesla has a Supercharger at Stonefield, one at the Wawa by the airport, and a
+new location coming to the Wawa on 29 (as of Dec 2025).
+
+Electrify America has a location by Target.
 
 The Albermarle County building has three Chargepoint DC chargers and a couple L2
 chargers. These are free, and thus are pretty busy.
